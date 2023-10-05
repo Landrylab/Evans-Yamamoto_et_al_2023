@@ -88,71 +88,95 @@ It contains the following folders and files;
 **01_RefSeq_Protein_retrival**<br>
 * Saccharomycetaceae_species.csv<br>
     List of _Saccharomycetaceae_ species in the NCBI database.
+  
 * download_ncbi_genomes.sh<br>
     Script to download files from NCBI.
+  
 * NCBI_download_wrapper.ipynb<br>
     Python notebook to download the genomes and protein files for the species listed in Saccharomycetaceae_species.csv.
+  
 * 2023-03-01_NCBI_download_summary.csv<br>
     Intermediate output from NCBI_download_wrapper.ipynb.
+  
 * hrr25.faa<br>
     Fasta file containing the _S. cerevisiae_ Hrr25p sequence.
+  
 * blast.ipynb  <br>                        
     Python notebook to create BLASTp databases from the downloaded protein files (under ./blastp/db), and perform BLASTp using the _S. cerevisiae_ Hrr25p (output under ./blastp/out).
+  
 * blastp<br>
     Folder containing intermediate files for protein blast.
+  
 * 2023-03-02_BLASTp_parsed.csv<br>
     Parsed data from the protein blast.
+  
 * Saccharomycetaceae_BLASTp_hits.fasta<br>
     Protein fasta file containing the 206 identified orthologs in the first alignment.
+  
 * 2023-03-02_NCBI_BLASTp_SGD_hits_parsed.xlsx
     Excel file containing BLASTp results of Saccharomycetaceae_BLASTp_hits.fasta against the [SGD database (_S. cerevisiae_ proteins)](https://www.yeastgenome.org/blast-sgd).
+  
 * Saccharomycetaceae_Hrr25_summary.csv
     csv file with summary of extracted Hrr25p sequences, removing all false positives. It also includes annotated orthologs in the YGOB database. the 
 
 **02_Phylogenetic_tree**<br>
 * 1672taxa_290genes_bb_1.treefile<br>
     Phylogenetic tree file from [Li et al. (2021) _Current Biology_](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00139-1)
+  
 * tree_Li_etal_2021.ipynb<br>
     R script in jupyter notebook to load and trim the phylogenetic tree, based on a set of species presnet in ../01_RefSeq_Protein_retrival/Saccharomycetaceae_Hrr25_summary.
+  
 * selected_species_tree.txt<br>
     Trimmed tree output from the script.
+  
 * sel_species.csv<br>
     Output from the script, with list of spcecies present in the trimmed tree.
+  
 * SelectedSpeciesTree_plot.pdf<br>
     Visualized tree output from tree_Li_etal_2021.ipynb.
 
 **03_Extended_homolog_search**
 * search_homolog.ipynb<br>
     Script to perform BLAST alignments agaisnt all genoe sequences using ./blast/db/HRR25_nuc_nonAligned.fasta as query.
+  
 * blast<br>
     Folder containing database and outputs from BLAST alignments.
+  
 * genomes.zip<br>
-    Compressed folder with genoome sequences which orthologs are going to be retrieved from.
+    Compressed folder with genoome sequences which orthologs are going to be retrieved from. Since this file is too large to upload to github, it is availabel [here](https://drive.google.com/drive/folders/1cNnubPgo3n9nujHv1PcrfHhWcxC-bsJn?usp=sharing).
+  
 * blast_hits.csv<br>
-    A file containing all BLAST hits, present in ./blast/out. 
+    A file containing all BLAST hits, present in ./blast/out.
+  
 * unique_regions_to_extract.csv<br>
    Unique gene regions parsed from blast_hits.csv
+  
 * HRR25_homologs_nt_extracted.fna<br>
     Fasta file containing homologs identified from genomic seuquences.
+  
 * HRR25_merged.fna<br>
     The result from this folder (HRR25_homologs_nt_extracted.fna) was merged with the input for homology search (./blast/db/HRR25_nuc_nonAligned.fasta) to be used for downstream analysis. 
 
 **04_Cleanup_homolog**
 * alignment4ORFdetection.ipynb<br>
     Python script to perform MAFFT-linsi and identify ORF regions for HRR25_merged.fna.
+  
 * HRR25_mafft_linsi.txt<br>
   Output from MAFFT-linsi.
+  
 * HRR25_homologs_aa_trimmed.fna<br>
     Output from alignment4ORFdetection.ipynb, contiaining protein sequences in fasta format.
+  
 * HRR25_trimed_aa_info.csv<br>
     Output from alignment4ORFdetection.ipynb, contiaining protein sequences in csv format.
+  
 * HRR25_homologs_nt_trimmed.fna<br>
     Output from alignment4ORFdetection.ipynb, contiaining nucleotide sequences in fasta format.
+  
 * HRR25_trimed_nt_info.csv<br>
     Output from alignment4ORFdetection.ipynb, contiaining nucleotide sequences in csv format.
 
-
-* TableS1_ListofGenes.xlsx<br>
+* **TableS1_ListofGenes.xlsx**<br>
 The output from 04_Cleanup_homolog was used to create a list of orthologs presented in Supplementary Table 1 (TableS1_ListofGenes.xlsx) of the manuscript.
 I assigned each ortholog a unique ID (present in the column GeneID_codeml), since codeml requires identifiers which are short. Using this file, I created which are present in the folder 05_gene_tree_construction.
 
@@ -162,14 +186,19 @@ I assigned each ortholog a unique ID (present in the column GeneID_codeml), sinc
   
 * trim_protein.ipynb<br>
     Python notebook to create inputs for TranslatorX, a program to perform alignment based on codons.
+  
 * HRR25_geneanalysis_aa_trimmed.fna          <br>
     Output from trim_protein.ipynb, where protein sequence is properly annotated (excluding regions after stop codons etc).
+  
 * HRR25_geneanalysis_nt_translatorXinput.fna <br>
     Output from trim_protein.ipynb, with nucleotide sequences corresponding to HRR25_geneanalysis_aa_trimmed.fna. I use file this for input in TranslatorX.
+  
 * translatorX_perl<br>
     A folder containing scripts from [TranslatorX](https://translatorx.org/downloads.html)
+  
 * translatorX_res<br>
-    A folder containing results from TranslatorX, using HRR25_geneanalysis_nt_translatorXinput.fna as input.  
+    A folder containing results from TranslatorX, using HRR25_geneanalysis_nt_translatorXinput.fna as input.
+  
 * raxml_res<br>
   A folder containing scripts and results from [raxml-ng](https://github.com/amkozlov/raxml-ng). I created the input file which only contains orthologs from post-WGD species which maintained two orthologs (HRR25_mafft_translatorx.nt_ali_PostWGD_selected.fasta) from the output of TranslatorX (HRR25_mafft_translatorx.nt_ali.fasta). The resulting tree was used manually create the recomciliated tree y replacing the post-WGD species with maintained duplicates with the tree presented in HRR25_mafft_translatorx.nt_ali_PostWGD_selected.fasta.raxml.bestTree. The resulting tree can be found in HRR25_genetree_postWGDGeneTreeIntegrated_ID_M0.txt.
 
