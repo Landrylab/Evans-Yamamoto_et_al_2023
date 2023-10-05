@@ -203,7 +203,22 @@ I assigned each ortholog a unique ID (present in the column GeneID_codeml), sinc
   A folder containing scripts and results from [raxml-ng](https://github.com/amkozlov/raxml-ng). I created the input file which only contains orthologs from post-WGD species which maintained two orthologs (HRR25_mafft_translatorx.nt_ali_PostWGD_selected.fasta) from the output of TranslatorX (HRR25_mafft_translatorx.nt_ali.fasta). The resulting tree was used manually create the recomciliated tree y replacing the post-WGD species with maintained duplicates with the tree presented in HRR25_mafft_translatorx.nt_ali_PostWGD_selected.fasta.raxml.bestTree. The resulting tree can be found in HRR25_genetree_postWGDGeneTreeIntegrated_ID_M0.txt.
 
 ### 02_Multiple_Sequence_Alignment_analysis
-hoge
+Scripts to reproduce Figure 1C of the paper.
+
+* input<br>
+    Input for this analysis is the codon based alignment of orthologs, identical to ../05_gene_tree_construction/translatorX_res/HRR25_mafft_translatorx.aa_ali.fasta.
+   
+* meta_data<br>
+    Folder with meta data, includig domain annotations and position information to aid interpretation of the plots.
+    
+* output<br>
+    Folder with outputs, including intermediate files with similarity scores by position.
+  
+* msa_analysis.ipynb<br>
+    A R script in jupyter-notebook, which was used to calculate the similarity score for each residue in orthologs.
+  
+* plot_similarity.ipynb<br>
+    A R script in jupyter-notebook, which was used visualize the data as presented in Figure 1C.
 
 ### 03_dNdS_analysis
 hoge
