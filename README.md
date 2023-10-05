@@ -5,10 +5,62 @@ This repository contains the computer codes and control files, defining the sett
 
 ## Installation
 
+Please make sure you have appropriate Python, pip, and R before starting.
+```sh
+Python version >= 3.5
+pip    version >= 1.1.0
+R      version >= 4.2.2
+```
+
+Download scripts by first clone this repository by execuiting the following command in the terminal.
+
+```sh
+git clone https://github.com/LandryLab/EVANS-Yamamoto_et_al_2023.git
+```
 
 
-## Requirements
 
+### Dependencies 
+
+- Python <br>
+    ```
+    numpy  version >=1.19 
+    ```
+
+    In the terminal, go to the location of the downloaded folder, and install the dependencies above by executing the following command.<br>
+    ```sh
+    pip install .
+    ```
+
+- R <br>
+    ```sh
+    XXX version >= 1.0.0
+    ```
+
+    To install these packages, execute the following script in the terminal.
+    ```sh
+    Rscript install_dependencies.r
+    ```
+
+### Other programs
+- [Jupyterlab](https://jupyter.org/install) <br>
+While I provide html codes of jupyter notebooks, installing jupyterlab would benefit to execute the scripts.
+Install Jupyterlab by pasting the following in the terminal and press return.
+    ```sh
+    pip install jupyterlab
+    ```
+
+- Commandline BLAST+ <br>
+Follow the [instruction manual](https://www.ncbi.nlm.nih.gov/books/NBK569861/) for installation.
+Set the PATH of the binary file.
+
+    Execute the following to see if installation is complete.
+    ```sh
+    blastn -help
+    ```
+- Commandline MAFFT<br>
+- PAML<br>
+- 
 
 
 
