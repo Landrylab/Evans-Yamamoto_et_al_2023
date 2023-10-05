@@ -4,7 +4,7 @@ This repository contains the computer codes and control files, defining the sett
 
 The architechture and content of this repository is as follows;
 
-### 00_Preliminary_analysis**
+### 00_Preliminary_analysis
 hoge
 ### 01_Ortholog_sequence_retrieval
 hoge
