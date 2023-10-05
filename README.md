@@ -143,7 +143,7 @@ It contains the following folders and files;
     Folder containing database and outputs from BLAST alignments.
   
 * genomes.zip<br>
-    Compressed folder with genoome sequences which orthologs are going to be retrieved from. Since this file is too large to upload to github, it is availabel [here](https://drive.google.com/drive/folders/1cNnubPgo3n9nujHv1PcrfHhWcxC-bsJn?usp=sharing).
+    Compressed folder with genoome sequences which orthologs are going to be retrieved from. Since this file is too large to upload to github, it is available [here](https://drive.google.com/file/d/1BQuC4V6KXw-DSiV1K4kb3OfkjmJaOb3r/view?usp=drive_link).
   
 * blast_hits.csv<br>
     A file containing all BLAST hits, present in ./blast/out.
