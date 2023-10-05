@@ -81,11 +81,38 @@ Scripts regarding the preliminary analysis on YGOB data base, idintifying essent
 
 
 
-
-
-
 ### 01_Ortholog_sequence_retrieval
-hoge
+Scripts regarding **Ortholog sequence retrieval** section in the manuscript.
+It contains the following files;
+
+**01_RefSeq_Protein_retrival**<br>
+* Saccharomycetaceae_species.csv<br>
+    List of _Saccharomycetaceae_ species in the NCBI database.
+* download_ncbi_genomes.sh<br>
+    Script to download files from NCBI.
+* NCBI_download_wrapper.ipynb<br>
+    Python notebook to download the genomes and protein files for the species listed in Saccharomycetaceae_species.csv.
+* 2023-03-01_NCBI_download_summary.csv<br>
+    Intermediate output from NCBI_download_wrapper.ipynb.
+* hrr25.faa<br>
+    Fasta file containing the _S. cerevisiae_ Hrr25p sequence.
+* blast.ipynb  <br>                        
+    Python notebook to create BLASTp databases from the downloaded protein files (under ./blastp/db), and perform BLASTp using the _S. cerevisiae_ Hrr25p (output under ./blastp/out).
+* blastp<br>
+    Folder containing intermediate files for protein blast.
+* 2023-03-02_BLASTp_parsed.csv<br>
+    Parsed data from the protein blast.
+* Saccharomycetaceae_BLASTp_hits.fasta<br>
+    Protein fasta file containing the identified orthologs.
+
+**02_Phylogenetic_tree**<br>
+
+
+
+**03_MAFFT_alignment**<br>
+
+
+
 
 ### 02_Multiple_Sequence_Alignment_analysis
 hoge
