@@ -1,0 +1,4 @@
+HRR25_start,HRR25_end,MSA_start,MSA_end,molecule,domain,subdomain,color
+9,278,12,288,HRR25,Kinase,,#E69F00
+394,494,503,777,HRR25,PQ-rich,,#ababab
+290,394,300,503,HRR25,Central,,#56B4E9
