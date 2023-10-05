@@ -83,7 +83,7 @@ Scripts regarding the preliminary analysis on YGOB data base, idintifying essent
 
 ### 01_Ortholog_sequence_retrieval
 Scripts regarding **Ortholog sequence retrieval** section in the manuscript.
-It contains the following files;
+It contains the following folders and files;
 
 **01_RefSeq_Protein_retrival**<br>
 * Saccharomycetaceae_species.csv<br>
@@ -106,10 +106,17 @@ It contains the following files;
     Protein fasta file containing the identified orthologs.
 
 **02_Phylogenetic_tree**<br>
+* 1672taxa_290genes_bb_1.treefile<br>
+    Phylogenetic tree file from [Li et al. (2021) _Current Biology_](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00139-1)
+* tree_Li_etal_2021.ipynb<br>
+    Script to load and trim the phylogenetic tree, based on a set of species which protein files were downloaded.
+* selected_species_tree.txt<br>
+    Trimmed tree output from the script.
+* sel_species.csv<br>
+    Output from the script, with list of spcecies present in the trimmed tree.
+* SelectedSpeciesTree_plot.pdf<br>
+    Visualized tree output from the script.
 
-
-
-**03_MAFFT_alignment**<br>
 
 
 
