@@ -246,7 +246,7 @@ Scripts and output related to combinatorial complementation screening.
 * Input<br>
     * Sample information for analysis
     * Image data from S&P imager (Available upon request to the corresponding author)
-    * Numaric values extracted from the Image data ([available here](https://drive.google.com/file/d/1RS7EYXSvUvU3izMDShCKwzdJK3wu-c14/view?usp=drive_link))
+    * Numeric values extracted from the Image data ([available here](https://drive.google.com/file/d/1RS7EYXSvUvU3izMDShCKwzdJK3wu-c14/view?usp=drive_link))
 * Scripts
     * 01_QuantifyAreaFromPlatePicture.ipynb<br>
       Script to extract colony area from each image.
@@ -261,7 +261,7 @@ Scripts and output related to combinatorial complementation screening.
       Script to plot heatmap from the complementation scores.
 
 * Output<br>
-Files generated from the scripts.
+Files generated from the scripts. Plots were used to prepare Figure 2C and Figure 2D of the paper.
 
 ### 05_DHFR-PCA_assay
 Scripts and output related to the DHFR-PCA screening.
@@ -269,7 +269,7 @@ Scripts and output related to the DHFR-PCA screening.
 * Input<br>
     * Sample information for analysis
     * Image data from S&P imager (Available upon request to the corresponding author)
-    * Numaric values extracted from the Image data (2022-12-09_MTX_Sel2_AUC_data_Cterm.csv)
+    * Numeric values extracted from the Image data (2022-12-09_MTX_Sel2_AUC_data_Cterm.csv)
 
 * Scripts<br>
     * 01_robotpics_analysis.ipynb<br>
@@ -285,16 +285,34 @@ Scripts and output related to the DHFR-PCA screening.
       Script to analyze PPI data and output stats.
           
 * Output<br>
-  Plots and intermediate files generated from the scripts.
+  Plots and intermediate files generated from the scripts. Plots were used to make Figure 3C and 3D of the paper.
 
 ### 06_GO_enrichment_analysis_of_PPI_partners
 * Input<br>
+    PPI score data (HRR25_orthologs_PPI_screening_parsed_2023-02-17DEY.csv) from 05_DHFR-PCA_assay.
 
 * Scripts<br>
+    * 01_data_proccessing.ipynb<br>
+        Script to proccess PPI data and meta data for GO enrichment analysis.
+    * 02_GO_Analysis.ipynb<br>
+        Script to perform GO enrichment analysis on PPI partners.
           
 * Output<br>
-  Plots and intermediate files generated from the scripts. The folder GO_results contians csv files for GO enrichment analysis results for each ortholog's PPI partner.
-
+  Plots and files generated from the scripts. The folder GO_results contians csv files for GO enrichment analysis results for each ortholog's PPI partner, which is combined to one file as seen in GO_aggregated_results.csv. Figures were used to make Figure 3B of the paper.
 
 ### 07_SH3_domain_motif_analysis
-hoge
+* Input<br>
+    * PPI score data (HRR25_orthologs_PPI_screening_parsed_2023-02-17DEY.csv) from 05_DHFR-PCA_assay.
+    * pwm_dir (folder containing SH3 posision weight matrix from [this paper](https://pubmed.ncbi.nlm.nih.gov/26861823/)
+    * Protein fasta files of HRR25 orthologs and the yeast proteome for motif search.
+    * ID conversion file for SH3 proteins (yeast_sh3_accession_to_GN.txt).
+
+* Scripts<br>
+    * 01_motif_search.ipynb<br>
+        Script to evaluate SH3 binding motifs in HRR25 orthologs.
+    * 02_plot_PPIandSH3Motif.ipynb<br>
+        Script to visualize the results.
+          
+* Output<br>
+  Plots and files generated from the scripts. The folder contians a csv file (SH3_PWM_scan_HRR25Orthologs_MSS.csv) with all values from the PWM matches. Plots are as shown in Figure 3D of the paper.
+
