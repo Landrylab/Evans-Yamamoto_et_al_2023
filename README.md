@@ -24,8 +24,7 @@ git clone https://github.com/LandryLab/EVANS-Yamamoto_et_al_2023.git
 - Python <br>
     ```
     numpy  version >=1.19
-    
-    
+    pandas version >=1.3.4
     ```
 
     In the terminal, go to the location of the downloaded folder, and install the dependencies above by executing the following command.<br>
@@ -35,9 +34,33 @@ git clone https://github.com/LandryLab/EVANS-Yamamoto_et_al_2023.git
 
 - R <br>
     ```sh
-    XXX version >= 1.0.0
+    sessioninfo   version >=1.2.2	
+    ggplot2       version >=3.4.2
+    reshape2      version >=1.4.4
+    GGally        version >=2.1.2	
+    ggridges      version >=0.5.4
+    plyr          version >=1.8.8	
+    dplyr         version >=1.1.2
+    tidyr         version >=1.3.0
+    tidyverse     version >=2.0.0	
+    Cairo         version >=1.6.0	
+    matrixStats   version >=1.0.0
+    forcats       version >=1.0.0
+    hardhat       version >=1.3.0	
+    gridExtra     version >=2.3	
+    ggExtra       version >=0.10.0
+    egg           version >=0.4.5
+    devtools      version >=2.4.5	
+    ggtree        version >=3.6.2	
+    castor        version >=1.7.10	
+    treeio        version >=1.22.0	
+    TreeTools     version >=1.9.2
+    stringr       version >=1.5.0
+    cowplot       version >=1.1.1	
+    ggpubr        version >=0.6.0	
+    gggenes       version >=0.5.0	
     ```
-
+    
     To install these packages, execute the following script in the terminal.
     ```sh
     Rscript install_dependencies.r
