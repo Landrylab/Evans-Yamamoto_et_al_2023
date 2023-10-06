@@ -68,7 +68,7 @@ git clone https://github.com/LandryLab/EVANS-Yamamoto_et_al_2023.git
 
 ### Other programs
 - [Jupyterlab](https://jupyter.org/install) <br>
-While I provide html codes of jupyter notebooks, installing jupyterlab would benefit to execute the scripts.
+In this repository, most scripts are in jupyter notebook format. Installing jupyterlab would benefit to execute the scripts.
 Install Jupyterlab by pasting the following in the terminal and press return.
     ```sh
     pip install jupyterlab
@@ -76,16 +76,19 @@ Install Jupyterlab by pasting the following in the terminal and press return.
 
 - Commandline BLAST+ <br>
 Follow the [instruction manual](https://www.ncbi.nlm.nih.gov/books/NBK569861/) for installation.
-Set the PATH of the binary file.
-
-    Execute the following to see if installation is complete.
-    ```sh
-    blastn -help
-    ```
+    
 - Commandline MAFFT<br>
-- PAML<br>
-- pyphe
+Visit the [MAFFT website](https://mafft.cbrc.jp/alignment/software/) for installation.
 
+- raxml-ng<br>
+Visit the [raxml-ng github page](https://github.com/amkozlov/raxml-ng) for installation.
+
+- PAML<br>
+Visit the [PAML github page](https://github.com/abacus-gene/paml) for installation.
+I followed the tutorial from [this tutorial paper](https://academic.oup.com/mbe/article/40/4/msad041/7140562?searchresult=1&login=false) and it's [github resource](https://github.com/abacus-gene/paml-tutorial).
+
+- pyphe<br>
+Visit the [pyphe page](https://pypi.org/project/pyphe/) for installation. 
 
 
 ## List of content and description
