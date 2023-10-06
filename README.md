@@ -60,7 +60,7 @@ Set the PATH of the binary file.
     ```
 - Commandline MAFFT<br>
 - PAML<br>
-- 
+- pyphe
 
 
 
@@ -226,10 +226,10 @@ Scripts to reproduce Figure 1D-G of the paper.
 **00_data_preparation**
 Data presented in the **raw_file** folder is proccessed using the script **alignment2nogap.ipynb** in order to create fasta files for codeml analysis. Some manual modifications (inserting the header for file format etc) was performed to ensure proper execution of codeml.
 
-**01_codeml**
+**01_codeml**<br>
 In this folder, the inputs, control files (*.ctl), log files, and outputs from codeml are shown.
 
-**02_evolution_rate_analysis**
+**02_evolution_rate_analysis**<br>
 In this folder, intermediate files for generating figures based on codeml output is presented, as well as scripts and visualized output.
 
 * domain_dNdS_heatmap.ipynb<br>
@@ -241,7 +241,27 @@ In this folder, intermediate files for generating figures based on codeml output
 
 
 ### 04_Combinatorial_functional_complementation_screening
-hoge
+Scripts and related output related to combinatorial complementation screening.
+
+* Input<br>
+    * Sample information for analysis
+    * Image data from S&P imager (Available upon request to the corresponding author)
+    * Numaric values extracted from the Image data ([available here](https://drive.google.com/file/d/1RS7EYXSvUvU3izMDShCKwzdJK3wu-c14/view?usp=drive_link))
+* Scripts
+    * 01_QuantifyAreaFromPlatePicture.ipynb<br>
+      Script to extract colony area from each image.
+      
+    * 02_AUC_computation.ipynb<br>
+      Script to compute Area Under the Curve from colony area information.
+      
+    * 03_parse_auc_data_2_scores_20230828.ipynb<br>
+      Script to compute complementation scores, using AUC values in selectio nand non-selection conditions.
+      
+    * 04_plot_heatmap.ipynb<br>
+      Script to plot heatmap from the complementation scores.
+
+* Output<br>
+Files generated from the scripts.
 
 ### 05_DHFR-PCA_assay
 hoge
