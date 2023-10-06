@@ -66,7 +66,7 @@ Set the PATH of the binary file.
 
 ## List of content and description
 
-This repository contains the following folders.
+This repository contains the following folders. The folders are numbered in sequencial order for execution.
 
 ### 00_Preliminary_analysis
 Scripts regarding the preliminary analysis on YGOB data base, idintifying essential genes in _S.cerevisiae_, which are maintained as duplicates in other species.
@@ -178,7 +178,7 @@ It contains the following folders and files;
 
 * **TableS1_ListofGenes.xlsx**<br>
 The output from 04_Cleanup_homolog was used to create a list of orthologs presented in Supplementary Table 1 (TableS1_ListofGenes.xlsx) of the manuscript.
-I assigned each ortholog a unique ID (present in the column GeneID_codeml), since codeml requires identifiers which are short. Using this file, I created which are present in the folder 05_gene_tree_construction.
+I assigned each ortholog a unique ID (present in the column GeneID_codeml), since codeml requires identifiers which are short. Using this file, I created inputs for downstrream analysis which are present in the folder 05_gene_tree_construction.
 
 **05_gene_tree_construction**
 * HRR25_geneanalysis_aa.fna and HRR25_geneanalysis_nt.fna<br>
@@ -287,9 +287,14 @@ Scripts and output related to the DHFR-PCA screening.
 * Output<br>
   Plots and intermediate files generated from the scripts.
 
-
 ### 06_GO_enrichment_analysis_of_PPI_partners
-hoge
+* Input<br>
+
+* Scripts<br>
+          
+* Output<br>
+  Plots and intermediate files generated from the scripts. The folder GO_results contians csv files for GO enrichment analysis results for each ortholog's PPI partner.
+
 
 ### 07_SH3_domain_motif_analysis
 hoge
