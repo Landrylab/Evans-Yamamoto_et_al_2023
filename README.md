@@ -221,7 +221,24 @@ Scripts to reproduce Figure 1C of the paper.
     A R script in jupyter-notebook, which was used visualize the data as presented in Figure 1C.
 
 ### 03_dNdS_analysis
-hoge
+Scripts to reproduce Figure 1D-G of the paper.
+
+**00_data_preparation**
+Data presented in the **raw_file** folder is proccessed using the script **alignment2nogap.ipynb** in order to create fasta files for codeml analysis. Some manual modifications (inserting the header for file format etc) was performed to ensure proper execution of codeml.
+
+**01_codeml**
+In this folder, the inputs, control files (*.ctl), log files, and outputs from codeml are shown.
+
+**02_evolution_rate_analysis**
+In this folder, intermediate files for generating figures based on codeml output is presented, as well as scripts and visualized output.
+
+* domain_dNdS_heatmap.ipynb<br>
+    Script to vizualize the domain based dN/dS values as heatmap.
+* evolutionary_rate_analysis_R.ipynb<br>
+    Script to analyze branch lengths and assymtry from codeml output (Figure 1E-G).
+* Results<br>
+    Folder containing all plots
+
 
 ### 04_Combinatorial_functional_complementation_screening
 hoge
