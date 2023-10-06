@@ -1,0 +1,1198 @@
+"","Description","Ortholog","Adjusted.Pval"
+"1","COPI-coated vesicle","T.delbrueckii.Anc",1
+"2","COPI-coated vesicle membrane","T.delbrueckii.Anc",0.0456037099036481
+"3","Golgi apparatus","T.delbrueckii.Anc",1
+"4","Golgi membrane","T.delbrueckii.Anc",0.00977204815645254
+"5","Golgi-associated vesicle","T.delbrueckii.Anc",1
+"6","Golgi-associated vesicle membrane","T.delbrueckii.Anc",0.0137655442297894
+"7","P-body","T.delbrueckii.Anc",0.0329396525978098
+"8","U4/U6 x U5 tri-snRNP complex","T.delbrueckii.Anc",1
+"9","U6 snRNP","T.delbrueckii.Anc",0.0425311171181588
+"10","actin cortical patch","T.delbrueckii.Anc",1.4911928462642e-12
+"11","actin cytoskeleton","T.delbrueckii.Anc",1.46529678508214e-12
+"12","actin filament","T.delbrueckii.Anc",0.0456037099036481
+"13","cell cortex","T.delbrueckii.Anc",1.35206531854269e-11
+"14","cell division site","T.delbrueckii.Anc",0.0415717777743933
+"15","cell pole","T.delbrueckii.Anc",6.97883303058637e-09
+"16","cell projection","T.delbrueckii.Anc",7.00553860825451e-09
+"17","cell tip","T.delbrueckii.Anc",6.97883303058637e-09
+"18","cellular bud","T.delbrueckii.Anc",0.000129836316105082
+"19","cellular bud neck","T.delbrueckii.Anc",0.00476953881583112
+"20","cellular bud neck septin ring","T.delbrueckii.Anc",1
+"21","cellular bud neck septin structure","T.delbrueckii.Anc",0.0232737484099748
+"22","clathrin-coated vesicle","T.delbrueckii.Anc",1
+"23","cleavage apparatus septin structure","T.delbrueckii.Anc",0.0232737484099748
+"24","coated membrane","T.delbrueckii.Anc",1
+"25","coated vesicle","T.delbrueckii.Anc",1
+"26","coated vesicle membrane","T.delbrueckii.Anc",1
+"27","cortical actin cytoskeleton","T.delbrueckii.Anc",1.4911928462642e-12
+"28","cortical cytoskeleton","T.delbrueckii.Anc",2.29908017249357e-12
+"29","cytoplasmic ribonucleoprotein granule","T.delbrueckii.Anc",1
+"30","cytoplasmic side of membrane","T.delbrueckii.Anc",1
+"31","cytoplasmic vesicle","T.delbrueckii.Anc",0.0215162763572257
+"32","cytoplasmic vesicle membrane","T.delbrueckii.Anc",0.00977204815645254
+"33","cytoskeleton","T.delbrueckii.Anc",3.18337758169842e-08
+"34","endocytic patch","T.delbrueckii.Anc",2.24852633868928e-13
+"35","intracellular vesicle","T.delbrueckii.Anc",0.0215162763572257
+"36","mating projection","T.delbrueckii.Anc",3.29365551362015e-08
+"37","mating projection tip","T.delbrueckii.Anc",1.29721933831052e-08
+"38","membrane coat","T.delbrueckii.Anc",1
+"39","membrane microdomain","T.delbrueckii.Anc",0.00234178358918356
+"40","membrane raft","T.delbrueckii.Anc",0.00234178358918356
+"41","plasma membrane bounded cell projection","T.delbrueckii.Anc",6.42828851001765e-09
+"42","plasma membrane protein complex","T.delbrueckii.Anc",1
+"43","polysome","T.delbrueckii.Anc",1
+"44","proton-transporting V-type ATPase complex","T.delbrueckii.Anc",1
+"45","proton-transporting two-sector ATPase complex","T.delbrueckii.Anc",1
+"46","ribonucleoprotein granule","T.delbrueckii.Anc",1
+"47","septin cytoskeleton","T.delbrueckii.Anc",0.0433577205436234
+"48","septin ring","T.delbrueckii.Anc",1
+"49","side of membrane","T.delbrueckii.Anc",1
+"50","site of polarized growth","T.delbrueckii.Anc",2.92509984669967e-06
+"51","spliceosomal tri-snRNP complex","T.delbrueckii.Anc",1
+"52","transport vesicle membrane","T.delbrueckii.Anc",1
+"53","vacuolar proton-transporting V-type ATPase complex","T.delbrueckii.Anc",1
+"54","vesicle","T.delbrueckii.Anc",0.00332982043338254
+"55","vesicle coat","T.delbrueckii.Anc",0.0456037099036481
+"56","vesicle membrane","T.delbrueckii.Anc",0.00977204815645254
+"57","vesicle tethering complex","T.delbrueckii.Anc",0.0214828259542038
+"58","COPI-coated vesicle","Z.rouxii.Anc",1
+"59","COPI-coated vesicle membrane","Z.rouxii.Anc",1
+"60","Golgi apparatus","Z.rouxii.Anc",1
+"61","Golgi membrane","Z.rouxii.Anc",1
+"62","Golgi-associated vesicle","Z.rouxii.Anc",1
+"63","Golgi-associated vesicle membrane","Z.rouxii.Anc",1
+"64","P-body","Z.rouxii.Anc",1
+"65","U4/U6 x U5 tri-snRNP complex","Z.rouxii.Anc",1
+"66","U6 snRNP","Z.rouxii.Anc",1
+"67","actin cortical patch","Z.rouxii.Anc",2.37629140163107e-07
+"68","actin cytoskeleton","Z.rouxii.Anc",1.61728657360918e-07
+"69","actin filament","Z.rouxii.Anc",1
+"70","cell cortex","Z.rouxii.Anc",1.92451234697075e-05
+"71","cell division site","Z.rouxii.Anc",1
+"72","cell pole","Z.rouxii.Anc",1.92451234697075e-05
+"73","cell projection","Z.rouxii.Anc",1.92451234697075e-05
+"74","cell tip","Z.rouxii.Anc",1.92451234697075e-05
+"75","cellular bud","Z.rouxii.Anc",0.001076453025043
+"76","cellular bud neck","Z.rouxii.Anc",0.00220941381561088
+"77","cellular bud neck septin ring","Z.rouxii.Anc",1
+"78","cellular bud neck septin structure","Z.rouxii.Anc",1
+"79","clathrin-coated vesicle","Z.rouxii.Anc",1
+"80","cleavage apparatus septin structure","Z.rouxii.Anc",1
+"81","coated membrane","Z.rouxii.Anc",1
+"82","coated vesicle","Z.rouxii.Anc",1
+"83","coated vesicle membrane","Z.rouxii.Anc",1
+"84","cortical actin cytoskeleton","Z.rouxii.Anc",8.57475517630708e-07
+"85","cortical cytoskeleton","Z.rouxii.Anc",9.19439669982776e-07
+"86","cytoplasmic ribonucleoprotein granule","Z.rouxii.Anc",1
+"87","cytoplasmic side of membrane","Z.rouxii.Anc",1
+"88","cytoplasmic vesicle","Z.rouxii.Anc",1
+"89","cytoplasmic vesicle membrane","Z.rouxii.Anc",1
+"90","cytoskeleton","Z.rouxii.Anc",1.92451234697075e-05
+"91","endocytic patch","Z.rouxii.Anc",1.87223063254825e-08
+"92","intracellular vesicle","Z.rouxii.Anc",1
+"93","mating projection","Z.rouxii.Anc",1.92451234697075e-05
+"94","mating projection tip","Z.rouxii.Anc",1.84101934419895e-05
+"95","membrane coat","Z.rouxii.Anc",1
+"96","membrane microdomain","Z.rouxii.Anc",1
+"97","membrane raft","Z.rouxii.Anc",1
+"98","plasma membrane bounded cell projection","Z.rouxii.Anc",1.92451234697075e-05
+"99","plasma membrane protein complex","Z.rouxii.Anc",0.0268716180987031
+"100","polysome","Z.rouxii.Anc",1
+"101","proton-transporting V-type ATPase complex","Z.rouxii.Anc",1
+"102","proton-transporting two-sector ATPase complex","Z.rouxii.Anc",1
+"103","ribonucleoprotein granule","Z.rouxii.Anc",1
+"104","septin cytoskeleton","Z.rouxii.Anc",1
+"105","septin ring","Z.rouxii.Anc",1
+"106","side of membrane","Z.rouxii.Anc",1
+"107","site of polarized growth","Z.rouxii.Anc",0.0002406361989782
+"108","spliceosomal tri-snRNP complex","Z.rouxii.Anc",1
+"109","transport vesicle membrane","Z.rouxii.Anc",1
+"110","vacuolar proton-transporting V-type ATPase complex","Z.rouxii.Anc",1
+"111","vesicle","Z.rouxii.Anc",1
+"112","vesicle coat","Z.rouxii.Anc",1
+"113","vesicle membrane","Z.rouxii.Anc",1
+"114","vesicle tethering complex","Z.rouxii.Anc",1
+"115","COPI-coated vesicle","S.cerevisiae.A",1
+"116","COPI-coated vesicle membrane","S.cerevisiae.A",1
+"117","Golgi apparatus","S.cerevisiae.A",1
+"118","Golgi membrane","S.cerevisiae.A",1
+"119","Golgi-associated vesicle","S.cerevisiae.A",1
+"120","Golgi-associated vesicle membrane","S.cerevisiae.A",1
+"121","P-body","S.cerevisiae.A",0.0131361377216703
+"122","U4/U6 x U5 tri-snRNP complex","S.cerevisiae.A",1
+"123","U6 snRNP","S.cerevisiae.A",1
+"124","actin cortical patch","S.cerevisiae.A",4.21132468719365e-06
+"125","actin cytoskeleton","S.cerevisiae.A",1.52240482922449e-05
+"126","actin filament","S.cerevisiae.A",1
+"127","cell cortex","S.cerevisiae.A",9.35474312029292e-05
+"128","cell division site","S.cerevisiae.A",1
+"129","cell pole","S.cerevisiae.A",0.0136972982190501
+"130","cell projection","S.cerevisiae.A",0.0136972982190501
+"131","cell tip","S.cerevisiae.A",0.0136972982190501
+"132","cellular bud","S.cerevisiae.A",0.0194671239259011
+"133","cellular bud neck","S.cerevisiae.A",0.0131361377216703
+"134","cellular bud neck septin ring","S.cerevisiae.A",1
+"135","cellular bud neck septin structure","S.cerevisiae.A",1
+"136","clathrin-coated vesicle","S.cerevisiae.A",0.0454948034884977
+"137","cleavage apparatus septin structure","S.cerevisiae.A",1
+"138","coated membrane","S.cerevisiae.A",1
+"139","coated vesicle","S.cerevisiae.A",1
+"140","coated vesicle membrane","S.cerevisiae.A",1
+"141","cortical actin cytoskeleton","S.cerevisiae.A",1.02812125250033e-05
+"142","cortical cytoskeleton","S.cerevisiae.A",1.02812125250033e-05
+"143","cytoplasmic ribonucleoprotein granule","S.cerevisiae.A",1
+"144","cytoplasmic side of membrane","S.cerevisiae.A",0.0250827422938488
+"145","cytoplasmic vesicle","S.cerevisiae.A",0.0310467767295481
+"146","cytoplasmic vesicle membrane","S.cerevisiae.A",1
+"147","cytoskeleton","S.cerevisiae.A",0.000784952945397151
+"148","endocytic patch","S.cerevisiae.A",2.12795851908326e-07
+"149","intracellular vesicle","S.cerevisiae.A",0.0310467767295481
+"150","mating projection","S.cerevisiae.A",0.0136972982190501
+"151","mating projection tip","S.cerevisiae.A",0.0131361377216703
+"152","membrane coat","S.cerevisiae.A",1
+"153","membrane microdomain","S.cerevisiae.A",1
+"154","membrane raft","S.cerevisiae.A",1
+"155","plasma membrane bounded cell projection","S.cerevisiae.A",0.0136972982190501
+"156","plasma membrane protein complex","S.cerevisiae.A",0.0194671239259011
+"157","polysome","S.cerevisiae.A",0.0319028225550038
+"158","proton-transporting V-type ATPase complex","S.cerevisiae.A",1
+"159","proton-transporting two-sector ATPase complex","S.cerevisiae.A",1
+"160","ribonucleoprotein granule","S.cerevisiae.A",1
+"161","septin cytoskeleton","S.cerevisiae.A",1
+"162","septin ring","S.cerevisiae.A",1
+"163","side of membrane","S.cerevisiae.A",0.0310467767295481
+"164","site of polarized growth","S.cerevisiae.A",0.0250827422938488
+"165","spliceosomal tri-snRNP complex","S.cerevisiae.A",1
+"166","transport vesicle membrane","S.cerevisiae.A",1
+"167","vacuolar proton-transporting V-type ATPase complex","S.cerevisiae.A",1
+"168","vesicle","S.cerevisiae.A",0.0319028225550038
+"169","vesicle coat","S.cerevisiae.A",1
+"170","vesicle membrane","S.cerevisiae.A",1
+"171","vesicle tethering complex","S.cerevisiae.A",1
+"172","COPI-coated vesicle","S.bayanusvar.uvarum.A",1
+"173","COPI-coated vesicle membrane","S.bayanusvar.uvarum.A",1
+"174","Golgi apparatus","S.bayanusvar.uvarum.A",1
+"175","Golgi membrane","S.bayanusvar.uvarum.A",1
+"176","Golgi-associated vesicle","S.bayanusvar.uvarum.A",1
+"177","Golgi-associated vesicle membrane","S.bayanusvar.uvarum.A",1
+"178","P-body","S.bayanusvar.uvarum.A",1
+"179","U4/U6 x U5 tri-snRNP complex","S.bayanusvar.uvarum.A",1
+"180","U6 snRNP","S.bayanusvar.uvarum.A",1
+"181","actin cortical patch","S.bayanusvar.uvarum.A",7.21613080715133e-11
+"182","actin cytoskeleton","S.bayanusvar.uvarum.A",1.33000424063115e-11
+"183","actin filament","S.bayanusvar.uvarum.A",0.0158247039669185
+"184","cell cortex","S.bayanusvar.uvarum.A",4.01237926019344e-07
+"185","cell division site","S.bayanusvar.uvarum.A",1
+"186","cell pole","S.bayanusvar.uvarum.A",2.27934619343999e-05
+"187","cell projection","S.bayanusvar.uvarum.A",2.27934619343999e-05
+"188","cell tip","S.bayanusvar.uvarum.A",2.27934619343999e-05
+"189","cellular bud","S.bayanusvar.uvarum.A",0.0113770290808792
+"190","cellular bud neck","S.bayanusvar.uvarum.A",0.0158247039669185
+"191","cellular bud neck septin ring","S.bayanusvar.uvarum.A",1
+"192","cellular bud neck septin structure","S.bayanusvar.uvarum.A",1
+"193","clathrin-coated vesicle","S.bayanusvar.uvarum.A",1
+"194","cleavage apparatus septin structure","S.bayanusvar.uvarum.A",1
+"195","coated membrane","S.bayanusvar.uvarum.A",1
+"196","coated vesicle","S.bayanusvar.uvarum.A",1
+"197","coated vesicle membrane","S.bayanusvar.uvarum.A",1
+"198","cortical actin cytoskeleton","S.bayanusvar.uvarum.A",4.31904922498307e-11
+"199","cortical cytoskeleton","S.bayanusvar.uvarum.A",4.63624855223723e-11
+"200","cytoplasmic ribonucleoprotein granule","S.bayanusvar.uvarum.A",1
+"201","cytoplasmic side of membrane","S.bayanusvar.uvarum.A",1
+"202","cytoplasmic vesicle","S.bayanusvar.uvarum.A",1
+"203","cytoplasmic vesicle membrane","S.bayanusvar.uvarum.A",0.0192245903490085
+"204","cytoskeleton","S.bayanusvar.uvarum.A",1.27938289233565e-06
+"205","endocytic patch","S.bayanusvar.uvarum.A",7.21613080715133e-11
+"206","intracellular vesicle","S.bayanusvar.uvarum.A",1
+"207","mating projection","S.bayanusvar.uvarum.A",2.27934619343999e-05
+"208","mating projection tip","S.bayanusvar.uvarum.A",1.47759790587051e-05
+"209","membrane coat","S.bayanusvar.uvarum.A",1
+"210","membrane microdomain","S.bayanusvar.uvarum.A",0.0158247039669185
+"211","membrane raft","S.bayanusvar.uvarum.A",0.0158247039669185
+"212","plasma membrane bounded cell projection","S.bayanusvar.uvarum.A",2.27934619343999e-05
+"213","plasma membrane protein complex","S.bayanusvar.uvarum.A",0.0401395377650376
+"214","polysome","S.bayanusvar.uvarum.A",1
+"215","proton-transporting V-type ATPase complex","S.bayanusvar.uvarum.A",0.0236617314253102
+"216","proton-transporting two-sector ATPase complex","S.bayanusvar.uvarum.A",1
+"217","ribonucleoprotein granule","S.bayanusvar.uvarum.A",1
+"218","septin cytoskeleton","S.bayanusvar.uvarum.A",1
+"219","septin ring","S.bayanusvar.uvarum.A",1
+"220","side of membrane","S.bayanusvar.uvarum.A",1
+"221","site of polarized growth","S.bayanusvar.uvarum.A",9.20925652968865e-05
+"222","spliceosomal tri-snRNP complex","S.bayanusvar.uvarum.A",1
+"223","transport vesicle membrane","S.bayanusvar.uvarum.A",1
+"224","vacuolar proton-transporting V-type ATPase complex","S.bayanusvar.uvarum.A",0.0236617314253102
+"225","vesicle","S.bayanusvar.uvarum.A",1
+"226","vesicle coat","S.bayanusvar.uvarum.A",1
+"227","vesicle membrane","S.bayanusvar.uvarum.A",0.0192245903490085
+"228","vesicle tethering complex","S.bayanusvar.uvarum.A",1
+"229","COPI-coated vesicle","S.mikatae.A",1
+"230","COPI-coated vesicle membrane","S.mikatae.A",1
+"231","Golgi apparatus","S.mikatae.A",1
+"232","Golgi membrane","S.mikatae.A",1
+"233","Golgi-associated vesicle","S.mikatae.A",1
+"234","Golgi-associated vesicle membrane","S.mikatae.A",1
+"235","P-body","S.mikatae.A",0.00177284622966588
+"236","U4/U6 x U5 tri-snRNP complex","S.mikatae.A",0.0467152881685388
+"237","U6 snRNP","S.mikatae.A",0.0157847995819808
+"238","actin cortical patch","S.mikatae.A",0.000398637610675009
+"239","actin cytoskeleton","S.mikatae.A",0.000876478259469576
+"240","actin filament","S.mikatae.A",1
+"241","cell cortex","S.mikatae.A",0.0215332786146185
+"242","cell division site","S.mikatae.A",1
+"243","cell pole","S.mikatae.A",0.0258843745110102
+"244","cell projection","S.mikatae.A",0.0258843745110102
+"245","cell tip","S.mikatae.A",0.0258843745110102
+"246","cellular bud","S.mikatae.A",1
+"247","cellular bud neck","S.mikatae.A",1
+"248","cellular bud neck septin ring","S.mikatae.A",1
+"249","cellular bud neck septin structure","S.mikatae.A",1
+"250","clathrin-coated vesicle","S.mikatae.A",1
+"251","cleavage apparatus septin structure","S.mikatae.A",1
+"252","coated membrane","S.mikatae.A",0.0467152881685388
+"253","coated vesicle","S.mikatae.A",0.0467152881685388
+"254","coated vesicle membrane","S.mikatae.A",1
+"255","cortical actin cytoskeleton","S.mikatae.A",0.000664318723038313
+"256","cortical cytoskeleton","S.mikatae.A",0.000664318723038313
+"257","cytoplasmic ribonucleoprotein granule","S.mikatae.A",0.0258843745110102
+"258","cytoplasmic side of membrane","S.mikatae.A",0.0360891569629873
+"259","cytoplasmic vesicle","S.mikatae.A",1
+"260","cytoplasmic vesicle membrane","S.mikatae.A",1
+"261","cytoskeleton","S.mikatae.A",0.040880433144605
+"262","endocytic patch","S.mikatae.A",0.000398637610675009
+"263","intracellular vesicle","S.mikatae.A",1
+"264","mating projection","S.mikatae.A",0.0258843745110102
+"265","mating projection tip","S.mikatae.A",0.0258843745110102
+"266","membrane coat","S.mikatae.A",0.0467152881685388
+"267","membrane microdomain","S.mikatae.A",1
+"268","membrane raft","S.mikatae.A",1
+"269","plasma membrane bounded cell projection","S.mikatae.A",0.0258843745110102
+"270","plasma membrane protein complex","S.mikatae.A",0.026625089492293
+"271","polysome","S.mikatae.A",0.0446491867116238
+"272","proton-transporting V-type ATPase complex","S.mikatae.A",1
+"273","proton-transporting two-sector ATPase complex","S.mikatae.A",1
+"274","ribonucleoprotein granule","S.mikatae.A",0.0258843745110102
+"275","septin cytoskeleton","S.mikatae.A",1
+"276","septin ring","S.mikatae.A",1
+"277","side of membrane","S.mikatae.A",0.0446491867116238
+"278","site of polarized growth","S.mikatae.A",0.0446491867116238
+"279","spliceosomal tri-snRNP complex","S.mikatae.A",0.0467152881685388
+"280","transport vesicle membrane","S.mikatae.A",0.0409341739112399
+"281","vacuolar proton-transporting V-type ATPase complex","S.mikatae.A",1
+"282","vesicle","S.mikatae.A",1
+"283","vesicle coat","S.mikatae.A",0.0446491867116238
+"284","vesicle membrane","S.mikatae.A",1
+"285","vesicle tethering complex","S.mikatae.A",1
+"286","COPI-coated vesicle","S.kudriavzevii.A",1
+"287","COPI-coated vesicle membrane","S.kudriavzevii.A",1
+"288","Golgi apparatus","S.kudriavzevii.A",1
+"289","Golgi membrane","S.kudriavzevii.A",1
+"290","Golgi-associated vesicle","S.kudriavzevii.A",1
+"291","Golgi-associated vesicle membrane","S.kudriavzevii.A",1
+"292","P-body","S.kudriavzevii.A",1
+"293","U4/U6 x U5 tri-snRNP complex","S.kudriavzevii.A",1
+"294","U6 snRNP","S.kudriavzevii.A",1
+"295","actin cortical patch","S.kudriavzevii.A",1.90497041340723e-06
+"296","actin cytoskeleton","S.kudriavzevii.A",8.09102383186259e-07
+"297","actin filament","S.kudriavzevii.A",1
+"298","cell cortex","S.kudriavzevii.A",5.20703411496637e-05
+"299","cell division site","S.kudriavzevii.A",1
+"300","cell pole","S.kudriavzevii.A",0.00101381242669042
+"301","cell projection","S.kudriavzevii.A",0.00101381242669042
+"302","cell tip","S.kudriavzevii.A",0.00101381242669042
+"303","cellular bud","S.kudriavzevii.A",0.0153724601564288
+"304","cellular bud neck","S.kudriavzevii.A",0.00591402708715631
+"305","cellular bud neck septin ring","S.kudriavzevii.A",1
+"306","cellular bud neck septin structure","S.kudriavzevii.A",1
+"307","clathrin-coated vesicle","S.kudriavzevii.A",0.0400415638811665
+"308","cleavage apparatus septin structure","S.kudriavzevii.A",1
+"309","coated membrane","S.kudriavzevii.A",1
+"310","coated vesicle","S.kudriavzevii.A",1
+"311","coated vesicle membrane","S.kudriavzevii.A",1
+"312","cortical actin cytoskeleton","S.kudriavzevii.A",5.44821595625377e-06
+"313","cortical cytoskeleton","S.kudriavzevii.A",5.59630537743172e-06
+"314","cytoplasmic ribonucleoprotein granule","S.kudriavzevii.A",1
+"315","cytoplasmic side of membrane","S.kudriavzevii.A",0.0216738734484277
+"316","cytoplasmic vesicle","S.kudriavzevii.A",0.0255664344260677
+"317","cytoplasmic vesicle membrane","S.kudriavzevii.A",1
+"318","cytoskeleton","S.kudriavzevii.A",5.12856788810119e-05
+"319","endocytic patch","S.kudriavzevii.A",1.3538598336399e-07
+"320","intracellular vesicle","S.kudriavzevii.A",0.0255664344260677
+"321","mating projection","S.kudriavzevii.A",0.00101381242669042
+"322","mating projection tip","S.kudriavzevii.A",0.000927248951590509
+"323","membrane coat","S.kudriavzevii.A",1
+"324","membrane microdomain","S.kudriavzevii.A",0.0408145364839059
+"325","membrane raft","S.kudriavzevii.A",0.0408145364839059
+"326","plasma membrane bounded cell projection","S.kudriavzevii.A",0.00101381242669042
+"327","plasma membrane protein complex","S.kudriavzevii.A",0.0159500911601676
+"328","polysome","S.kudriavzevii.A",0.0281031039298936
+"329","proton-transporting V-type ATPase complex","S.kudriavzevii.A",1
+"330","proton-transporting two-sector ATPase complex","S.kudriavzevii.A",1
+"331","ribonucleoprotein granule","S.kudriavzevii.A",1
+"332","septin cytoskeleton","S.kudriavzevii.A",1
+"333","septin ring","S.kudriavzevii.A",1
+"334","side of membrane","S.kudriavzevii.A",0.0257756142507173
+"335","site of polarized growth","S.kudriavzevii.A",0.00350929539061215
+"336","spliceosomal tri-snRNP complex","S.kudriavzevii.A",1
+"337","transport vesicle membrane","S.kudriavzevii.A",1
+"338","vacuolar proton-transporting V-type ATPase complex","S.kudriavzevii.A",1
+"339","vesicle","S.kudriavzevii.A",0.0257756142507173
+"340","vesicle coat","S.kudriavzevii.A",1
+"341","vesicle membrane","S.kudriavzevii.A",1
+"342","vesicle tethering complex","S.kudriavzevii.A",1
+"343","COPI-coated vesicle","C.glabrata.B",1
+"344","COPI-coated vesicle membrane","C.glabrata.B",1
+"345","Golgi apparatus","C.glabrata.B",1
+"346","Golgi membrane","C.glabrata.B",1
+"347","Golgi-associated vesicle","C.glabrata.B",1
+"348","Golgi-associated vesicle membrane","C.glabrata.B",1
+"349","P-body","C.glabrata.B",1
+"350","U4/U6 x U5 tri-snRNP complex","C.glabrata.B",1
+"351","U6 snRNP","C.glabrata.B",1
+"352","actin cortical patch","C.glabrata.B",0.000324084993928502
+"353","actin cytoskeleton","C.glabrata.B",0.000554626014297582
+"354","actin filament","C.glabrata.B",1
+"355","cell cortex","C.glabrata.B",0.00059682537014567
+"356","cell division site","C.glabrata.B",1
+"357","cell pole","C.glabrata.B",0.0199382302564825
+"358","cell projection","C.glabrata.B",0.0199382302564825
+"359","cell tip","C.glabrata.B",0.0199382302564825
+"360","cellular bud","C.glabrata.B",1
+"361","cellular bud neck","C.glabrata.B",0.0455400106778459
+"362","cellular bud neck septin ring","C.glabrata.B",1
+"363","cellular bud neck septin structure","C.glabrata.B",1
+"364","clathrin-coated vesicle","C.glabrata.B",0.0199382302564825
+"365","cleavage apparatus septin structure","C.glabrata.B",1
+"366","coated membrane","C.glabrata.B",1
+"367","coated vesicle","C.glabrata.B",1
+"368","coated vesicle membrane","C.glabrata.B",1
+"369","cortical actin cytoskeleton","C.glabrata.B",0.000461122862646355
+"370","cortical cytoskeleton","C.glabrata.B",0.000461122862646355
+"371","cytoplasmic ribonucleoprotein granule","C.glabrata.B",1
+"372","cytoplasmic side of membrane","C.glabrata.B",1
+"373","cytoplasmic vesicle","C.glabrata.B",0.0208801101281291
+"374","cytoplasmic vesicle membrane","C.glabrata.B",1
+"375","cytoskeleton","C.glabrata.B",0.00269249766442951
+"376","endocytic patch","C.glabrata.B",1.28868668062977e-05
+"377","intracellular vesicle","C.glabrata.B",0.0208801101281291
+"378","mating projection","C.glabrata.B",0.0199382302564825
+"379","mating projection tip","C.glabrata.B",0.0199382302564825
+"380","membrane coat","C.glabrata.B",1
+"381","membrane microdomain","C.glabrata.B",1
+"382","membrane raft","C.glabrata.B",1
+"383","plasma membrane bounded cell projection","C.glabrata.B",0.0199382302564825
+"384","plasma membrane protein complex","C.glabrata.B",1
+"385","polysome","C.glabrata.B",0.0199382302564825
+"386","proton-transporting V-type ATPase complex","C.glabrata.B",1
+"387","proton-transporting two-sector ATPase complex","C.glabrata.B",1
+"388","ribonucleoprotein granule","C.glabrata.B",1
+"389","septin cytoskeleton","C.glabrata.B",1
+"390","septin ring","C.glabrata.B",1
+"391","side of membrane","C.glabrata.B",1
+"392","site of polarized growth","C.glabrata.B",1
+"393","spliceosomal tri-snRNP complex","C.glabrata.B",1
+"394","transport vesicle membrane","C.glabrata.B",1
+"395","vacuolar proton-transporting V-type ATPase complex","C.glabrata.B",1
+"396","vesicle","C.glabrata.B",0.0208801101281291
+"397","vesicle coat","C.glabrata.B",1
+"398","vesicle membrane","C.glabrata.B",1
+"399","vesicle tethering complex","C.glabrata.B",0.0208801101281291
+"400","COPI-coated vesicle","N.castellii.A",1
+"401","COPI-coated vesicle membrane","N.castellii.A",1
+"402","Golgi apparatus","N.castellii.A",1
+"403","Golgi membrane","N.castellii.A",1
+"404","Golgi-associated vesicle","N.castellii.A",1
+"405","Golgi-associated vesicle membrane","N.castellii.A",1
+"406","P-body","N.castellii.A",1
+"407","U4/U6 x U5 tri-snRNP complex","N.castellii.A",1
+"408","U6 snRNP","N.castellii.A",1
+"409","actin cortical patch","N.castellii.A",1
+"410","actin cytoskeleton","N.castellii.A",1
+"411","actin filament","N.castellii.A",1
+"412","cell cortex","N.castellii.A",1
+"413","cell division site","N.castellii.A",1
+"414","cell pole","N.castellii.A",1
+"415","cell projection","N.castellii.A",1
+"416","cell tip","N.castellii.A",1
+"417","cellular bud","N.castellii.A",1
+"418","cellular bud neck","N.castellii.A",1
+"419","cellular bud neck septin ring","N.castellii.A",1
+"420","cellular bud neck septin structure","N.castellii.A",1
+"421","clathrin-coated vesicle","N.castellii.A",1
+"422","cleavage apparatus septin structure","N.castellii.A",1
+"423","coated membrane","N.castellii.A",1
+"424","coated vesicle","N.castellii.A",1
+"425","coated vesicle membrane","N.castellii.A",1
+"426","cortical actin cytoskeleton","N.castellii.A",1
+"427","cortical cytoskeleton","N.castellii.A",1
+"428","cytoplasmic ribonucleoprotein granule","N.castellii.A",1
+"429","cytoplasmic side of membrane","N.castellii.A",1
+"430","cytoplasmic vesicle","N.castellii.A",1
+"431","cytoplasmic vesicle membrane","N.castellii.A",1
+"432","cytoskeleton","N.castellii.A",1
+"433","endocytic patch","N.castellii.A",1
+"434","intracellular vesicle","N.castellii.A",1
+"435","mating projection","N.castellii.A",1
+"436","mating projection tip","N.castellii.A",1
+"437","membrane coat","N.castellii.A",1
+"438","membrane microdomain","N.castellii.A",1
+"439","membrane raft","N.castellii.A",1
+"440","plasma membrane bounded cell projection","N.castellii.A",1
+"441","plasma membrane protein complex","N.castellii.A",1
+"442","polysome","N.castellii.A",1
+"443","proton-transporting V-type ATPase complex","N.castellii.A",1
+"444","proton-transporting two-sector ATPase complex","N.castellii.A",1
+"445","ribonucleoprotein granule","N.castellii.A",1
+"446","septin cytoskeleton","N.castellii.A",1
+"447","septin ring","N.castellii.A",1
+"448","side of membrane","N.castellii.A",1
+"449","site of polarized growth","N.castellii.A",1
+"450","spliceosomal tri-snRNP complex","N.castellii.A",1
+"451","transport vesicle membrane","N.castellii.A",1
+"452","vacuolar proton-transporting V-type ATPase complex","N.castellii.A",1
+"453","vesicle","N.castellii.A",1
+"454","vesicle coat","N.castellii.A",1
+"455","vesicle membrane","N.castellii.A",1
+"456","vesicle tethering complex","N.castellii.A",1
+"457","COPI-coated vesicle","N.castellii.B",1
+"458","COPI-coated vesicle membrane","N.castellii.B",1
+"459","Golgi apparatus","N.castellii.B",0.0385606028983012
+"460","Golgi membrane","N.castellii.B",0.0205112747659152
+"461","Golgi-associated vesicle","N.castellii.B",1
+"462","Golgi-associated vesicle membrane","N.castellii.B",1
+"463","P-body","N.castellii.B",1
+"464","U4/U6 x U5 tri-snRNP complex","N.castellii.B",1
+"465","U6 snRNP","N.castellii.B",1
+"466","actin cortical patch","N.castellii.B",7.45497463513428e-06
+"467","actin cytoskeleton","N.castellii.B",2.4036109471256e-05
+"468","actin filament","N.castellii.B",1
+"469","cell cortex","N.castellii.B",0.00159218996636781
+"470","cell division site","N.castellii.B",1
+"471","cell pole","N.castellii.B",0.00193326724788199
+"472","cell projection","N.castellii.B",0.00193326724788199
+"473","cell tip","N.castellii.B",0.00193326724788199
+"474","cellular bud","N.castellii.B",1
+"475","cellular bud neck","N.castellii.B",0.0479196055047207
+"476","cellular bud neck septin ring","N.castellii.B",1
+"477","cellular bud neck septin structure","N.castellii.B",1
+"478","clathrin-coated vesicle","N.castellii.B",1
+"479","cleavage apparatus septin structure","N.castellii.B",1
+"480","coated membrane","N.castellii.B",1
+"481","coated vesicle","N.castellii.B",1
+"482","coated vesicle membrane","N.castellii.B",1
+"483","cortical actin cytoskeleton","N.castellii.B",1.62747317542035e-05
+"484","cortical cytoskeleton","N.castellii.B",1.62747317542035e-05
+"485","cytoplasmic ribonucleoprotein granule","N.castellii.B",1
+"486","cytoplasmic side of membrane","N.castellii.B",1
+"487","cytoplasmic vesicle","N.castellii.B",1
+"488","cytoplasmic vesicle membrane","N.castellii.B",1
+"489","cytoskeleton","N.castellii.B",0.00527235756094942
+"490","endocytic patch","N.castellii.B",7.45497463513428e-06
+"491","intracellular vesicle","N.castellii.B",1
+"492","mating projection","N.castellii.B",0.00193326724788199
+"493","mating projection tip","N.castellii.B",0.00178082521596623
+"494","membrane coat","N.castellii.B",1
+"495","membrane microdomain","N.castellii.B",1
+"496","membrane raft","N.castellii.B",1
+"497","plasma membrane bounded cell projection","N.castellii.B",0.00193326724788199
+"498","plasma membrane protein complex","N.castellii.B",0.0190682193120046
+"499","polysome","N.castellii.B",0.0388008376579295
+"500","proton-transporting V-type ATPase complex","N.castellii.B",0.011313307067113
+"501","proton-transporting two-sector ATPase complex","N.castellii.B",0.0393972621331232
+"502","ribonucleoprotein granule","N.castellii.B",1
+"503","septin cytoskeleton","N.castellii.B",1
+"504","septin ring","N.castellii.B",1
+"505","side of membrane","N.castellii.B",1
+"506","site of polarized growth","N.castellii.B",0.00691292178881269
+"507","spliceosomal tri-snRNP complex","N.castellii.B",1
+"508","transport vesicle membrane","N.castellii.B",1
+"509","vacuolar proton-transporting V-type ATPase complex","N.castellii.B",0.011313307067113
+"510","vesicle","N.castellii.B",1
+"511","vesicle coat","N.castellii.B",1
+"512","vesicle membrane","N.castellii.B",1
+"513","vesicle tethering complex","N.castellii.B",0.000574883868006632
+"514","COPI-coated vesicle","V.polyspora.A",1
+"515","COPI-coated vesicle membrane","V.polyspora.A",1
+"516","Golgi apparatus","V.polyspora.A",1
+"517","Golgi membrane","V.polyspora.A",1
+"518","Golgi-associated vesicle","V.polyspora.A",1
+"519","Golgi-associated vesicle membrane","V.polyspora.A",1
+"520","P-body","V.polyspora.A",1
+"521","U4/U6 x U5 tri-snRNP complex","V.polyspora.A",1
+"522","U6 snRNP","V.polyspora.A",1
+"523","actin cortical patch","V.polyspora.A",4.73429871051326e-08
+"524","actin cytoskeleton","V.polyspora.A",3.92563599365831e-09
+"525","actin filament","V.polyspora.A",0.0135547018012936
+"526","cell cortex","V.polyspora.A",2.73549359396713e-06
+"527","cell division site","V.polyspora.A",1
+"528","cell pole","V.polyspora.A",1.43665940615709e-05
+"529","cell projection","V.polyspora.A",1.43665940615709e-05
+"530","cell tip","V.polyspora.A",1.43665940615709e-05
+"531","cellular bud","V.polyspora.A",0.00131995082976219
+"532","cellular bud neck","V.polyspora.A",0.00188890686165586
+"533","cellular bud neck septin ring","V.polyspora.A",1
+"534","cellular bud neck septin structure","V.polyspora.A",1
+"535","clathrin-coated vesicle","V.polyspora.A",1
+"536","cleavage apparatus septin structure","V.polyspora.A",1
+"537","coated membrane","V.polyspora.A",1
+"538","coated vesicle","V.polyspora.A",1
+"539","coated vesicle membrane","V.polyspora.A",1
+"540","cortical actin cytoskeleton","V.polyspora.A",1.72678366436991e-08
+"541","cortical cytoskeleton","V.polyspora.A",1.89632343269473e-08
+"542","cytoplasmic ribonucleoprotein granule","V.polyspora.A",1
+"543","cytoplasmic side of membrane","V.polyspora.A",1
+"544","cytoplasmic vesicle","V.polyspora.A",1
+"545","cytoplasmic vesicle membrane","V.polyspora.A",1
+"546","cytoskeleton","V.polyspora.A",6.47020013109599e-06
+"547","endocytic patch","V.polyspora.A",3.92563599365831e-09
+"548","intracellular vesicle","V.polyspora.A",1
+"549","mating projection","V.polyspora.A",1.43665940615709e-05
+"550","mating projection tip","V.polyspora.A",9.26581397495475e-06
+"551","membrane coat","V.polyspora.A",1
+"552","membrane microdomain","V.polyspora.A",0.0135547018012936
+"553","membrane raft","V.polyspora.A",0.0135547018012936
+"554","plasma membrane bounded cell projection","V.polyspora.A",1.43665940615709e-05
+"555","plasma membrane protein complex","V.polyspora.A",0.0389562232830715
+"556","polysome","V.polyspora.A",1
+"557","proton-transporting V-type ATPase complex","V.polyspora.A",0.0230265172593311
+"558","proton-transporting two-sector ATPase complex","V.polyspora.A",1
+"559","ribonucleoprotein granule","V.polyspora.A",1
+"560","septin cytoskeleton","V.polyspora.A",1
+"561","septin ring","V.polyspora.A",1
+"562","side of membrane","V.polyspora.A",1
+"563","site of polarized growth","V.polyspora.A",5.274009072445e-05
+"564","spliceosomal tri-snRNP complex","V.polyspora.A",1
+"565","transport vesicle membrane","V.polyspora.A",1
+"566","vacuolar proton-transporting V-type ATPase complex","V.polyspora.A",0.0230265172593311
+"567","vesicle","V.polyspora.A",1
+"568","vesicle coat","V.polyspora.A",1
+"569","vesicle membrane","V.polyspora.A",1
+"570","vesicle tethering complex","V.polyspora.A",1
+"571","COPI-coated vesicle","V.polyspora.B",1
+"572","COPI-coated vesicle membrane","V.polyspora.B",1
+"573","Golgi apparatus","V.polyspora.B",1
+"574","Golgi membrane","V.polyspora.B",1
+"575","Golgi-associated vesicle","V.polyspora.B",1
+"576","Golgi-associated vesicle membrane","V.polyspora.B",1
+"577","P-body","V.polyspora.B",1
+"578","U4/U6 x U5 tri-snRNP complex","V.polyspora.B",1
+"579","U6 snRNP","V.polyspora.B",1
+"580","actin cortical patch","V.polyspora.B",1
+"581","actin cytoskeleton","V.polyspora.B",1
+"582","actin filament","V.polyspora.B",1
+"583","cell cortex","V.polyspora.B",1
+"584","cell division site","V.polyspora.B",1
+"585","cell pole","V.polyspora.B",1
+"586","cell projection","V.polyspora.B",1
+"587","cell tip","V.polyspora.B",1
+"588","cellular bud","V.polyspora.B",1
+"589","cellular bud neck","V.polyspora.B",1
+"590","cellular bud neck septin ring","V.polyspora.B",1
+"591","cellular bud neck septin structure","V.polyspora.B",1
+"592","clathrin-coated vesicle","V.polyspora.B",1
+"593","cleavage apparatus septin structure","V.polyspora.B",1
+"594","coated membrane","V.polyspora.B",1
+"595","coated vesicle","V.polyspora.B",1
+"596","coated vesicle membrane","V.polyspora.B",1
+"597","cortical actin cytoskeleton","V.polyspora.B",1
+"598","cortical cytoskeleton","V.polyspora.B",1
+"599","cytoplasmic ribonucleoprotein granule","V.polyspora.B",1
+"600","cytoplasmic side of membrane","V.polyspora.B",1
+"601","cytoplasmic vesicle","V.polyspora.B",1
+"602","cytoplasmic vesicle membrane","V.polyspora.B",1
+"603","cytoskeleton","V.polyspora.B",1
+"604","endocytic patch","V.polyspora.B",1
+"605","intracellular vesicle","V.polyspora.B",1
+"606","mating projection","V.polyspora.B",1
+"607","mating projection tip","V.polyspora.B",1
+"608","membrane coat","V.polyspora.B",1
+"609","membrane microdomain","V.polyspora.B",1
+"610","membrane raft","V.polyspora.B",1
+"611","plasma membrane bounded cell projection","V.polyspora.B",1
+"612","plasma membrane protein complex","V.polyspora.B",1
+"613","polysome","V.polyspora.B",1
+"614","proton-transporting V-type ATPase complex","V.polyspora.B",1
+"615","proton-transporting two-sector ATPase complex","V.polyspora.B",1
+"616","ribonucleoprotein granule","V.polyspora.B",1
+"617","septin cytoskeleton","V.polyspora.B",1
+"618","septin ring","V.polyspora.B",1
+"619","side of membrane","V.polyspora.B",1
+"620","site of polarized growth","V.polyspora.B",1
+"621","spliceosomal tri-snRNP complex","V.polyspora.B",1
+"622","transport vesicle membrane","V.polyspora.B",1
+"623","vacuolar proton-transporting V-type ATPase complex","V.polyspora.B",1
+"624","vesicle","V.polyspora.B",1
+"625","vesicle coat","V.polyspora.B",1
+"626","vesicle membrane","V.polyspora.B",1
+"627","vesicle tethering complex","V.polyspora.B",1
+"628","COPI-coated vesicle","K.africana.A",1
+"629","COPI-coated vesicle membrane","K.africana.A",1
+"630","Golgi apparatus","K.africana.A",1
+"631","Golgi membrane","K.africana.A",1
+"632","Golgi-associated vesicle","K.africana.A",1
+"633","Golgi-associated vesicle membrane","K.africana.A",0.0227689026034438
+"634","P-body","K.africana.A",1
+"635","U4/U6 x U5 tri-snRNP complex","K.africana.A",1
+"636","U6 snRNP","K.africana.A",1
+"637","actin cortical patch","K.africana.A",1.28671206725268e-11
+"638","actin cytoskeleton","K.africana.A",1.28671206725268e-11
+"639","actin filament","K.africana.A",1
+"640","cell cortex","K.africana.A",2.39866011115429e-11
+"641","cell division site","K.africana.A",0.0164360121664134
+"642","cell pole","K.africana.A",4.90671535025948e-09
+"643","cell projection","K.africana.A",5.0504460241895e-09
+"644","cell tip","K.africana.A",4.90671535025948e-09
+"645","cellular bud","K.africana.A",3.58586605280179e-05
+"646","cellular bud neck","K.africana.A",0.0011773614088017
+"647","cellular bud neck septin ring","K.africana.A",0.011672460729588
+"648","cellular bud neck septin structure","K.africana.A",0.00453913281947331
+"649","clathrin-coated vesicle","K.africana.A",1
+"650","cleavage apparatus septin structure","K.africana.A",0.00453913281947331
+"651","coated membrane","K.africana.A",1
+"652","coated vesicle","K.africana.A",1
+"653","coated vesicle membrane","K.africana.A",1
+"654","cortical actin cytoskeleton","K.africana.A",1.3798575183065e-11
+"655","cortical cytoskeleton","K.africana.A",2.11476159534708e-11
+"656","cytoplasmic ribonucleoprotein granule","K.africana.A",1
+"657","cytoplasmic side of membrane","K.africana.A",1
+"658","cytoplasmic vesicle","K.africana.A",1
+"659","cytoplasmic vesicle membrane","K.africana.A",1
+"660","cytoskeleton","K.africana.A",9.19322777814816e-09
+"661","endocytic patch","K.africana.A",2.13515335339754e-12
+"662","intracellular vesicle","K.africana.A",1
+"663","mating projection","K.africana.A",4.19879968833994e-09
+"664","mating projection tip","K.africana.A",1.35108290670589e-09
+"665","membrane coat","K.africana.A",1
+"666","membrane microdomain","K.africana.A",0.00453913281947331
+"667","membrane raft","K.africana.A",0.00453913281947331
+"668","plasma membrane bounded cell projection","K.africana.A",4.20900055422749e-09
+"669","plasma membrane protein complex","K.africana.A",1
+"670","polysome","K.africana.A",1
+"671","proton-transporting V-type ATPase complex","K.africana.A",1
+"672","proton-transporting two-sector ATPase complex","K.africana.A",1
+"673","ribonucleoprotein granule","K.africana.A",1
+"674","septin cytoskeleton","K.africana.A",0.011672460729588
+"675","septin ring","K.africana.A",0.0343510522723832
+"676","side of membrane","K.africana.A",1
+"677","site of polarized growth","K.africana.A",1.69674309246271e-07
+"678","spliceosomal tri-snRNP complex","K.africana.A",1
+"679","transport vesicle membrane","K.africana.A",1
+"680","vacuolar proton-transporting V-type ATPase complex","K.africana.A",1
+"681","vesicle","K.africana.A",1
+"682","vesicle coat","K.africana.A",1
+"683","vesicle membrane","K.africana.A",1
+"684","vesicle tethering complex","K.africana.A",1
+"685","COPI-coated vesicle","K.africana.B",1
+"686","COPI-coated vesicle membrane","K.africana.B",0.0295399200297473
+"687","Golgi apparatus","K.africana.B",1
+"688","Golgi membrane","K.africana.B",1
+"689","Golgi-associated vesicle","K.africana.B",0.0304290356238755
+"690","Golgi-associated vesicle membrane","K.africana.B",0.00615936027023684
+"691","P-body","K.africana.B",1
+"692","U4/U6 x U5 tri-snRNP complex","K.africana.B",1
+"693","U6 snRNP","K.africana.B",1
+"694","actin cortical patch","K.africana.B",2.70667003383499e-06
+"695","actin cytoskeleton","K.africana.B",5.30780490365106e-08
+"696","actin filament","K.africana.B",0.00157228308759376
+"697","cell cortex","K.africana.B",0.000123297639912691
+"698","cell division site","K.africana.B",1
+"699","cell pole","K.africana.B",8.63909303428191e-06
+"700","cell projection","K.africana.B",8.63909303428191e-06
+"701","cell tip","K.africana.B",8.63909303428191e-06
+"702","cellular bud","K.africana.B",0.00632443442876806
+"703","cellular bud neck","K.africana.B",0.00632443442876806
+"704","cellular bud neck septin ring","K.africana.B",1
+"705","cellular bud neck septin structure","K.africana.B",1
+"706","clathrin-coated vesicle","K.africana.B",1
+"707","cleavage apparatus septin structure","K.africana.B",1
+"708","coated membrane","K.africana.B",0.0295399200297473
+"709","coated vesicle","K.africana.B",1
+"710","coated vesicle membrane","K.africana.B",0.0477553397989562
+"711","cortical actin cytoskeleton","K.africana.B",2.0263471113517e-06
+"712","cortical cytoskeleton","K.africana.B",2.0263471113517e-06
+"713","cytoplasmic ribonucleoprotein granule","K.africana.B",1
+"714","cytoplasmic side of membrane","K.africana.B",1
+"715","cytoplasmic vesicle","K.africana.B",0.046354508243538
+"716","cytoplasmic vesicle membrane","K.africana.B",0.0240530426856253
+"717","cytoskeleton","K.africana.B",8.63125428216233e-05
+"718","endocytic patch","K.africana.B",2.70667003383499e-06
+"719","intracellular vesicle","K.africana.B",0.046354508243538
+"720","mating projection","K.africana.B",8.63909303428191e-06
+"721","mating projection tip","K.africana.B",5.08188113962295e-06
+"722","membrane coat","K.africana.B",0.0295399200297473
+"723","membrane microdomain","K.africana.B",0.00598674052237398
+"724","membrane raft","K.africana.B",0.00598674052237398
+"725","plasma membrane bounded cell projection","K.africana.B",8.63909303428191e-06
+"726","plasma membrane protein complex","K.africana.B",1
+"727","polysome","K.africana.B",0.0240530426856253
+"728","proton-transporting V-type ATPase complex","K.africana.B",0.046354508243538
+"729","proton-transporting two-sector ATPase complex","K.africana.B",1
+"730","ribonucleoprotein granule","K.africana.B",1
+"731","septin cytoskeleton","K.africana.B",1
+"732","septin ring","K.africana.B",1
+"733","side of membrane","K.africana.B",1
+"734","site of polarized growth","K.africana.B",0.000143367383679117
+"735","spliceosomal tri-snRNP complex","K.africana.B",1
+"736","transport vesicle membrane","K.africana.B",1
+"737","vacuolar proton-transporting V-type ATPase complex","K.africana.B",0.046354508243538
+"738","vesicle","K.africana.B",0.0477553397989562
+"739","vesicle coat","K.africana.B",0.0240530426856253
+"740","vesicle membrane","K.africana.B",0.0240530426856253
+"741","vesicle tethering complex","K.africana.B",1
+"742","COPI-coated vesicle","T.blattae.A",1
+"743","COPI-coated vesicle membrane","T.blattae.A",1
+"744","Golgi apparatus","T.blattae.A",1
+"745","Golgi membrane","T.blattae.A",1
+"746","Golgi-associated vesicle","T.blattae.A",1
+"747","Golgi-associated vesicle membrane","T.blattae.A",1
+"748","P-body","T.blattae.A",1
+"749","U4/U6 x U5 tri-snRNP complex","T.blattae.A",1
+"750","U6 snRNP","T.blattae.A",1
+"751","actin cortical patch","T.blattae.A",1
+"752","actin cytoskeleton","T.blattae.A",1
+"753","actin filament","T.blattae.A",1
+"754","cell cortex","T.blattae.A",1
+"755","cell division site","T.blattae.A",1
+"756","cell pole","T.blattae.A",1
+"757","cell projection","T.blattae.A",1
+"758","cell tip","T.blattae.A",1
+"759","cellular bud","T.blattae.A",1
+"760","cellular bud neck","T.blattae.A",1
+"761","cellular bud neck septin ring","T.blattae.A",1
+"762","cellular bud neck septin structure","T.blattae.A",1
+"763","clathrin-coated vesicle","T.blattae.A",1
+"764","cleavage apparatus septin structure","T.blattae.A",1
+"765","coated membrane","T.blattae.A",1
+"766","coated vesicle","T.blattae.A",1
+"767","coated vesicle membrane","T.blattae.A",1
+"768","cortical actin cytoskeleton","T.blattae.A",1
+"769","cortical cytoskeleton","T.blattae.A",1
+"770","cytoplasmic ribonucleoprotein granule","T.blattae.A",1
+"771","cytoplasmic side of membrane","T.blattae.A",1
+"772","cytoplasmic vesicle","T.blattae.A",1
+"773","cytoplasmic vesicle membrane","T.blattae.A",1
+"774","cytoskeleton","T.blattae.A",1
+"775","endocytic patch","T.blattae.A",1
+"776","intracellular vesicle","T.blattae.A",1
+"777","mating projection","T.blattae.A",1
+"778","mating projection tip","T.blattae.A",1
+"779","membrane coat","T.blattae.A",1
+"780","membrane microdomain","T.blattae.A",1
+"781","membrane raft","T.blattae.A",1
+"782","plasma membrane bounded cell projection","T.blattae.A",1
+"783","plasma membrane protein complex","T.blattae.A",1
+"784","polysome","T.blattae.A",0.00357307828201295
+"785","proton-transporting V-type ATPase complex","T.blattae.A",1
+"786","proton-transporting two-sector ATPase complex","T.blattae.A",1
+"787","ribonucleoprotein granule","T.blattae.A",1
+"788","septin cytoskeleton","T.blattae.A",1
+"789","septin ring","T.blattae.A",1
+"790","side of membrane","T.blattae.A",1
+"791","site of polarized growth","T.blattae.A",1
+"792","spliceosomal tri-snRNP complex","T.blattae.A",1
+"793","transport vesicle membrane","T.blattae.A",1
+"794","vacuolar proton-transporting V-type ATPase complex","T.blattae.A",1
+"795","vesicle","T.blattae.A",1
+"796","vesicle coat","T.blattae.A",1
+"797","vesicle membrane","T.blattae.A",1
+"798","vesicle tethering complex","T.blattae.A",1
+"799","COPI-coated vesicle","T.blattae.B",1
+"800","COPI-coated vesicle membrane","T.blattae.B",0.0479220627475619
+"801","Golgi apparatus","T.blattae.B",1
+"802","Golgi membrane","T.blattae.B",1
+"803","Golgi-associated vesicle","T.blattae.B",1
+"804","Golgi-associated vesicle membrane","T.blattae.B",0.0119339003924822
+"805","P-body","T.blattae.B",0.0279285841269025
+"806","U4/U6 x U5 tri-snRNP complex","T.blattae.B",1
+"807","U6 snRNP","T.blattae.B",0.0437585214727778
+"808","actin cortical patch","T.blattae.B",3.81483827792908e-12
+"809","actin cytoskeleton","T.blattae.B",2.61063363384946e-12
+"810","actin filament","T.blattae.B",0.0479220627475619
+"811","cell cortex","T.blattae.B",8.84232905555684e-11
+"812","cell division site","T.blattae.B",1
+"813","cell pole","T.blattae.B",8.68358770879939e-09
+"814","cell projection","T.blattae.B",8.68358770879939e-09
+"815","cell tip","T.blattae.B",8.68358770879939e-09
+"816","cellular bud","T.blattae.B",0.000559865103368582
+"817","cellular bud neck","T.blattae.B",0.00756627576565826
+"818","cellular bud neck septin ring","T.blattae.B",1
+"819","cellular bud neck septin structure","T.blattae.B",1
+"820","clathrin-coated vesicle","T.blattae.B",1
+"821","cleavage apparatus septin structure","T.blattae.B",1
+"822","coated membrane","T.blattae.B",1
+"823","coated vesicle","T.blattae.B",1
+"824","coated vesicle membrane","T.blattae.B",1
+"825","cortical actin cytoskeleton","T.blattae.B",3.81483827792908e-12
+"826","cortical cytoskeleton","T.blattae.B",5.03114763610823e-12
+"827","cytoplasmic ribonucleoprotein granule","T.blattae.B",1
+"828","cytoplasmic side of membrane","T.blattae.B",1
+"829","cytoplasmic vesicle","T.blattae.B",1
+"830","cytoplasmic vesicle membrane","T.blattae.B",1
+"831","cytoskeleton","T.blattae.B",1.07839772453e-07
+"832","endocytic patch","T.blattae.B",6.5138164680543e-13
+"833","intracellular vesicle","T.blattae.B",1
+"834","mating projection","T.blattae.B",5.02568104729346e-08
+"835","mating projection tip","T.blattae.B",1.96584650400395e-08
+"836","membrane coat","T.blattae.B",1
+"837","membrane microdomain","T.blattae.B",0.0119339003924822
+"838","membrane raft","T.blattae.B",0.0119339003924822
+"839","plasma membrane bounded cell projection","T.blattae.B",8.18629158758964e-09
+"840","plasma membrane protein complex","T.blattae.B",1
+"841","polysome","T.blattae.B",1
+"842","proton-transporting V-type ATPase complex","T.blattae.B",1
+"843","proton-transporting two-sector ATPase complex","T.blattae.B",1
+"844","ribonucleoprotein granule","T.blattae.B",1
+"845","septin cytoskeleton","T.blattae.B",1
+"846","septin ring","T.blattae.B",1
+"847","side of membrane","T.blattae.B",1
+"848","site of polarized growth","T.blattae.B",1.04654857500153e-05
+"849","spliceosomal tri-snRNP complex","T.blattae.B",1
+"850","transport vesicle membrane","T.blattae.B",1
+"851","vacuolar proton-transporting V-type ATPase complex","T.blattae.B",1
+"852","vesicle","T.blattae.B",0.0306206921275322
+"853","vesicle coat","T.blattae.B",0.0437585214727778
+"854","vesicle membrane","T.blattae.B",1
+"855","vesicle tethering complex","T.blattae.B",1
+"856","COPI-coated vesicle","N.dairenensis.A",1
+"857","COPI-coated vesicle membrane","N.dairenensis.A",1
+"858","Golgi apparatus","N.dairenensis.A",1
+"859","Golgi membrane","N.dairenensis.A",1
+"860","Golgi-associated vesicle","N.dairenensis.A",1
+"861","Golgi-associated vesicle membrane","N.dairenensis.A",1
+"862","P-body","N.dairenensis.A",1
+"863","U4/U6 x U5 tri-snRNP complex","N.dairenensis.A",1
+"864","U6 snRNP","N.dairenensis.A",1
+"865","actin cortical patch","N.dairenensis.A",1
+"866","actin cytoskeleton","N.dairenensis.A",1
+"867","actin filament","N.dairenensis.A",1
+"868","cell cortex","N.dairenensis.A",1
+"869","cell division site","N.dairenensis.A",1
+"870","cell pole","N.dairenensis.A",1
+"871","cell projection","N.dairenensis.A",1
+"872","cell tip","N.dairenensis.A",1
+"873","cellular bud","N.dairenensis.A",1
+"874","cellular bud neck","N.dairenensis.A",1
+"875","cellular bud neck septin ring","N.dairenensis.A",1
+"876","cellular bud neck septin structure","N.dairenensis.A",1
+"877","clathrin-coated vesicle","N.dairenensis.A",1
+"878","cleavage apparatus septin structure","N.dairenensis.A",1
+"879","coated membrane","N.dairenensis.A",1
+"880","coated vesicle","N.dairenensis.A",1
+"881","coated vesicle membrane","N.dairenensis.A",1
+"882","cortical actin cytoskeleton","N.dairenensis.A",1
+"883","cortical cytoskeleton","N.dairenensis.A",1
+"884","cytoplasmic ribonucleoprotein granule","N.dairenensis.A",1
+"885","cytoplasmic side of membrane","N.dairenensis.A",1
+"886","cytoplasmic vesicle","N.dairenensis.A",1
+"887","cytoplasmic vesicle membrane","N.dairenensis.A",1
+"888","cytoskeleton","N.dairenensis.A",1
+"889","endocytic patch","N.dairenensis.A",1
+"890","intracellular vesicle","N.dairenensis.A",1
+"891","mating projection","N.dairenensis.A",1
+"892","mating projection tip","N.dairenensis.A",1
+"893","membrane coat","N.dairenensis.A",1
+"894","membrane microdomain","N.dairenensis.A",1
+"895","membrane raft","N.dairenensis.A",1
+"896","plasma membrane bounded cell projection","N.dairenensis.A",1
+"897","plasma membrane protein complex","N.dairenensis.A",1
+"898","polysome","N.dairenensis.A",0.00725186373345997
+"899","proton-transporting V-type ATPase complex","N.dairenensis.A",1
+"900","proton-transporting two-sector ATPase complex","N.dairenensis.A",1
+"901","ribonucleoprotein granule","N.dairenensis.A",1
+"902","septin cytoskeleton","N.dairenensis.A",1
+"903","septin ring","N.dairenensis.A",1
+"904","side of membrane","N.dairenensis.A",1
+"905","site of polarized growth","N.dairenensis.A",1
+"906","spliceosomal tri-snRNP complex","N.dairenensis.A",1
+"907","transport vesicle membrane","N.dairenensis.A",1
+"908","vacuolar proton-transporting V-type ATPase complex","N.dairenensis.A",1
+"909","vesicle","N.dairenensis.A",1
+"910","vesicle coat","N.dairenensis.A",1
+"911","vesicle membrane","N.dairenensis.A",1
+"912","vesicle tethering complex","N.dairenensis.A",1
+"913","COPI-coated vesicle","N.dairenensis.B",0.0474213247271466
+"914","COPI-coated vesicle membrane","N.dairenensis.B",0.0196877352239579
+"915","Golgi apparatus","N.dairenensis.B",0.0196877352239579
+"916","Golgi membrane","N.dairenensis.B",0.00300929096356874
+"917","Golgi-associated vesicle","N.dairenensis.B",0.0196877352239579
+"918","Golgi-associated vesicle membrane","N.dairenensis.B",0.00414322782279925
+"919","P-body","N.dairenensis.B",1
+"920","U4/U6 x U5 tri-snRNP complex","N.dairenensis.B",1
+"921","U6 snRNP","N.dairenensis.B",1
+"922","actin cortical patch","N.dairenensis.B",1.22530716896747e-10
+"923","actin cytoskeleton","N.dairenensis.B",1.85374416534241e-10
+"924","actin filament","N.dairenensis.B",1
+"925","cell cortex","N.dairenensis.B",7.62591873586216e-09
+"926","cell division site","N.dairenensis.B",1
+"927","cell pole","N.dairenensis.B",2.19277665183506e-05
+"928","cell projection","N.dairenensis.B",2.19277665183506e-05
+"929","cell tip","N.dairenensis.B",2.19277665183506e-05
+"930","cellular bud","N.dairenensis.B",0.0296025715536112
+"931","cellular bud neck","N.dairenensis.B",1
+"932","cellular bud neck septin ring","N.dairenensis.B",1
+"933","cellular bud neck septin structure","N.dairenensis.B",1
+"934","clathrin-coated vesicle","N.dairenensis.B",1
+"935","cleavage apparatus septin structure","N.dairenensis.B",1
+"936","coated membrane","N.dairenensis.B",0.0196877352239579
+"937","coated vesicle","N.dairenensis.B",0.0421229617109808
+"938","coated vesicle membrane","N.dairenensis.B",0.0296025715536112
+"939","cortical actin cytoskeleton","N.dairenensis.B",6.31710364563101e-10
+"940","cortical cytoskeleton","N.dairenensis.B",8.08590184095217e-10
+"941","cytoplasmic ribonucleoprotein granule","N.dairenensis.B",1
+"942","cytoplasmic side of membrane","N.dairenensis.B",1
+"943","cytoplasmic vesicle","N.dairenensis.B",1
+"944","cytoplasmic vesicle membrane","N.dairenensis.B",0.0137856853065206
+"945","cytoskeleton","N.dairenensis.B",5.03346809485588e-06
+"946","endocytic patch","N.dairenensis.B",1.22530716896747e-10
+"947","intracellular vesicle","N.dairenensis.B",1
+"948","mating projection","N.dairenensis.B",2.19277665183506e-05
+"949","mating projection tip","N.dairenensis.B",1.28695194103961e-05
+"950","membrane coat","N.dairenensis.B",0.0196877352239579
+"951","membrane microdomain","N.dairenensis.B",0.0241533966083123
+"952","membrane raft","N.dairenensis.B",0.0241533966083123
+"953","plasma membrane bounded cell projection","N.dairenensis.B",2.19277665183506e-05
+"954","plasma membrane protein complex","N.dairenensis.B",0.0474213247271466
+"955","polysome","N.dairenensis.B",1
+"956","proton-transporting V-type ATPase complex","N.dairenensis.B",0.0296025715536112
+"957","proton-transporting two-sector ATPase complex","N.dairenensis.B",1
+"958","ribonucleoprotein granule","N.dairenensis.B",1
+"959","septin cytoskeleton","N.dairenensis.B",1
+"960","septin ring","N.dairenensis.B",1
+"961","side of membrane","N.dairenensis.B",1
+"962","site of polarized growth","N.dairenensis.B",0.00489184009674161
+"963","spliceosomal tri-snRNP complex","N.dairenensis.B",1
+"964","transport vesicle membrane","N.dairenensis.B",1
+"965","vacuolar proton-transporting V-type ATPase complex","N.dairenensis.B",0.0296025715536112
+"966","vesicle","N.dairenensis.B",1
+"967","vesicle coat","N.dairenensis.B",0.0157275006534333
+"968","vesicle membrane","N.dairenensis.B",0.0137856853065206
+"969","vesicle tethering complex","N.dairenensis.B",0.00432625888240237
+"970","COPI-coated vesicle","K.naganishii.A",1
+"971","COPI-coated vesicle membrane","K.naganishii.A",1
+"972","Golgi apparatus","K.naganishii.A",1
+"973","Golgi membrane","K.naganishii.A",1
+"974","Golgi-associated vesicle","K.naganishii.A",1
+"975","Golgi-associated vesicle membrane","K.naganishii.A",1
+"976","P-body","K.naganishii.A",1
+"977","U4/U6 x U5 tri-snRNP complex","K.naganishii.A",1
+"978","U6 snRNP","K.naganishii.A",1
+"979","actin cortical patch","K.naganishii.A",1.53890350069069e-08
+"980","actin cytoskeleton","K.naganishii.A",8.45317715229057e-08
+"981","actin filament","K.naganishii.A",1
+"982","cell cortex","K.naganishii.A",7.71360640225444e-07
+"983","cell division site","K.naganishii.A",1
+"984","cell pole","K.naganishii.A",2.205517222767e-05
+"985","cell projection","K.naganishii.A",2.205517222767e-05
+"986","cell tip","K.naganishii.A",2.205517222767e-05
+"987","cellular bud","K.naganishii.A",0.00668513847369641
+"988","cellular bud neck","K.naganishii.A",0.00251018502200948
+"989","cellular bud neck septin ring","K.naganishii.A",1
+"990","cellular bud neck septin structure","K.naganishii.A",1
+"991","clathrin-coated vesicle","K.naganishii.A",0.0296529853700953
+"992","cleavage apparatus septin structure","K.naganishii.A",1
+"993","coated membrane","K.naganishii.A",1
+"994","coated vesicle","K.naganishii.A",1
+"995","coated vesicle membrane","K.naganishii.A",1
+"996","cortical actin cytoskeleton","K.naganishii.A",5.02930376546238e-08
+"997","cortical cytoskeleton","K.naganishii.A",5.07602089033774e-08
+"998","cytoplasmic ribonucleoprotein granule","K.naganishii.A",1
+"999","cytoplasmic side of membrane","K.naganishii.A",1
+"1000","cytoplasmic vesicle","K.naganishii.A",0.0119624015635464
+"1001","cytoplasmic vesicle membrane","K.naganishii.A",0.0498447740016382
+"1002","cytoskeleton","K.naganishii.A",9.8653749664614e-06
+"1003","endocytic patch","K.naganishii.A",4.68485883682454e-10
+"1004","intracellular vesicle","K.naganishii.A",0.0119624015635464
+"1005","mating projection","K.naganishii.A",2.205517222767e-05
+"1006","mating projection tip","K.naganishii.A",1.76365252721784e-05
+"1007","membrane coat","K.naganishii.A",1
+"1008","membrane microdomain","K.naganishii.A",1
+"1009","membrane raft","K.naganishii.A",1
+"1010","plasma membrane bounded cell projection","K.naganishii.A",2.205517222767e-05
+"1011","plasma membrane protein complex","K.naganishii.A",0.0107546948642051
+"1012","polysome","K.naganishii.A",0.0208397947066845
+"1013","proton-transporting V-type ATPase complex","K.naganishii.A",1
+"1014","proton-transporting two-sector ATPase complex","K.naganishii.A",1
+"1015","ribonucleoprotein granule","K.naganishii.A",1
+"1016","septin cytoskeleton","K.naganishii.A",1
+"1017","septin ring","K.naganishii.A",1
+"1018","side of membrane","K.naganishii.A",1
+"1019","site of polarized growth","K.naganishii.A",0.000112549339251586
+"1020","spliceosomal tri-snRNP complex","K.naganishii.A",1
+"1021","transport vesicle membrane","K.naganishii.A",1
+"1022","vacuolar proton-transporting V-type ATPase complex","K.naganishii.A",1
+"1023","vesicle","K.naganishii.A",0.0124137188629921
+"1024","vesicle coat","K.naganishii.A",1
+"1025","vesicle membrane","K.naganishii.A",0.0498447740016382
+"1026","vesicle tethering complex","K.naganishii.A",1
+"1027","COPI-coated vesicle","K.naganishii.B",1
+"1028","COPI-coated vesicle membrane","K.naganishii.B",0.0468458103479567
+"1029","Golgi apparatus","K.naganishii.B",1
+"1030","Golgi membrane","K.naganishii.B",1
+"1031","Golgi-associated vesicle","K.naganishii.B",1
+"1032","Golgi-associated vesicle membrane","K.naganishii.B",0.0115071305038674
+"1033","P-body","K.naganishii.B",1
+"1034","U4/U6 x U5 tri-snRNP complex","K.naganishii.B",1
+"1035","U6 snRNP","K.naganishii.B",0.0423900705381618
+"1036","actin cortical patch","K.naganishii.B",2.99415363053458e-12
+"1037","actin cytoskeleton","K.naganishii.B",1.98149481007165e-12
+"1038","actin filament","K.naganishii.B",0.0468458103479567
+"1039","cell cortex","K.naganishii.B",7.38689214261941e-10
+"1040","cell division site","K.naganishii.B",1
+"1041","cell pole","K.naganishii.B",7.74027478477849e-08
+"1042","cell projection","K.naganishii.B",7.74027478477849e-08
+"1043","cell tip","K.naganishii.B",7.74027478477849e-08
+"1044","cellular bud","K.naganishii.B",0.00215965251897568
+"1045","cellular bud neck","K.naganishii.B",0.0232812059888174
+"1046","cellular bud neck septin ring","K.naganishii.B",1
+"1047","cellular bud neck septin structure","K.naganishii.B",1
+"1048","clathrin-coated vesicle","K.naganishii.B",1
+"1049","cleavage apparatus septin structure","K.naganishii.B",1
+"1050","coated membrane","K.naganishii.B",1
+"1051","coated vesicle","K.naganishii.B",1
+"1052","coated vesicle membrane","K.naganishii.B",1
+"1053","cortical actin cytoskeleton","K.naganishii.B",2.99415363053458e-12
+"1054","cortical cytoskeleton","K.naganishii.B",3.88699653422152e-12
+"1055","cytoplasmic ribonucleoprotein granule","K.naganishii.B",1
+"1056","cytoplasmic side of membrane","K.naganishii.B",1
+"1057","cytoplasmic vesicle","K.naganishii.B",1
+"1058","cytoplasmic vesicle membrane","K.naganishii.B",1
+"1059","cytoskeleton","K.naganishii.B",5.82555474683682e-07
+"1060","endocytic patch","K.naganishii.B",5.01804301967529e-13
+"1061","intracellular vesicle","K.naganishii.B",1
+"1062","mating projection","K.naganishii.B",4.30848532105422e-07
+"1063","mating projection tip","K.naganishii.B",1.84455167787314e-07
+"1064","membrane coat","K.naganishii.B",1
+"1065","membrane microdomain","K.naganishii.B",0.0115071305038674
+"1066","membrane raft","K.naganishii.B",0.0115071305038674
+"1067","plasma membrane bounded cell projection","K.naganishii.B",7.54904988140352e-08
+"1068","plasma membrane protein complex","K.naganishii.B",1
+"1069","polysome","K.naganishii.B",1
+"1070","proton-transporting V-type ATPase complex","K.naganishii.B",1
+"1071","proton-transporting two-sector ATPase complex","K.naganishii.B",1
+"1072","ribonucleoprotein granule","K.naganishii.B",1
+"1073","septin cytoskeleton","K.naganishii.B",1
+"1074","septin ring","K.naganishii.B",1
+"1075","side of membrane","K.naganishii.B",1
+"1076","site of polarized growth","K.naganishii.B",4.64111322634637e-05
+"1077","spliceosomal tri-snRNP complex","K.naganishii.B",1
+"1078","transport vesicle membrane","K.naganishii.B",1
+"1079","vacuolar proton-transporting V-type ATPase complex","K.naganishii.B",1
+"1080","vesicle","K.naganishii.B",0.0277979632932766
+"1081","vesicle coat","K.naganishii.B",0.0423900705381618
+"1082","vesicle membrane","K.naganishii.B",1
+"1083","vesicle tethering complex","K.naganishii.B",1
+"1084","COPI-coated vesicle","T.phaffii.A",1
+"1085","COPI-coated vesicle membrane","T.phaffii.A",0.0457959277158968
+"1086","Golgi apparatus","T.phaffii.A",1
+"1087","Golgi membrane","T.phaffii.A",1
+"1088","Golgi-associated vesicle","T.phaffii.A",0.047842583791289
+"1089","Golgi-associated vesicle membrane","T.phaffii.A",0.00963593537251503
+"1090","P-body","T.phaffii.A",1
+"1091","U4/U6 x U5 tri-snRNP complex","T.phaffii.A",1
+"1092","U6 snRNP","T.phaffii.A",1
+"1093","actin cortical patch","T.phaffii.A",1.46209956969159e-09
+"1094","actin cytoskeleton","T.phaffii.A",7.05312721272375e-10
+"1095","actin filament","T.phaffii.A",0.0457959277158968
+"1096","cell cortex","T.phaffii.A",6.13386986312555e-09
+"1097","cell division site","T.phaffii.A",1
+"1098","cell pole","T.phaffii.A",5.28912729945131e-08
+"1099","cell projection","T.phaffii.A",5.32800575540129e-08
+"1100","cell tip","T.phaffii.A",5.28912729945131e-08
+"1101","cellular bud","T.phaffii.A",0.00166768370178244
+"1102","cellular bud neck","T.phaffii.A",0.00522118948459991
+"1103","cellular bud neck septin ring","T.phaffii.A",1
+"1104","cellular bud neck septin structure","T.phaffii.A",1
+"1105","clathrin-coated vesicle","T.phaffii.A",1
+"1106","cleavage apparatus septin structure","T.phaffii.A",1
+"1107","coated membrane","T.phaffii.A",0.047842583791289
+"1108","coated vesicle","T.phaffii.A",1
+"1109","coated vesicle membrane","T.phaffii.A",1
+"1110","cortical actin cytoskeleton","T.phaffii.A",1.46209956969159e-09
+"1111","cortical cytoskeleton","T.phaffii.A",1.46209956969159e-09
+"1112","cytoplasmic ribonucleoprotein granule","T.phaffii.A",1
+"1113","cytoplasmic side of membrane","T.phaffii.A",1
+"1114","cytoplasmic vesicle","T.phaffii.A",0.047842583791289
+"1115","cytoplasmic vesicle membrane","T.phaffii.A",0.0149516351982948
+"1116","cytoskeleton","T.phaffii.A",3.12506395256873e-06
+"1117","endocytic patch","T.phaffii.A",3.45226513381884e-10
+"1118","intracellular vesicle","T.phaffii.A",0.047842583791289
+"1119","mating projection","T.phaffii.A",4.84647451532541e-08
+"1120","mating projection tip","T.phaffii.A",2.01894120168096e-08
+"1121","membrane coat","T.phaffii.A",0.047842583791289
+"1122","membrane microdomain","T.phaffii.A",0.00102484740959257
+"1123","membrane raft","T.phaffii.A",0.00102484740959257
+"1124","plasma membrane bounded cell projection","T.phaffii.A",4.84647451532541e-08
+"1125","plasma membrane protein complex","T.phaffii.A",1
+"1126","polysome","T.phaffii.A",1
+"1127","proton-transporting V-type ATPase complex","T.phaffii.A",1
+"1128","proton-transporting two-sector ATPase complex","T.phaffii.A",1
+"1129","ribonucleoprotein granule","T.phaffii.A",1
+"1130","septin cytoskeleton","T.phaffii.A",1
+"1131","septin ring","T.phaffii.A",1
+"1132","side of membrane","T.phaffii.A",1
+"1133","site of polarized growth","T.phaffii.A",6.70493370276386e-06
+"1134","spliceosomal tri-snRNP complex","T.phaffii.A",1
+"1135","transport vesicle membrane","T.phaffii.A",1
+"1136","vacuolar proton-transporting V-type ATPase complex","T.phaffii.A",1
+"1137","vesicle","T.phaffii.A",1
+"1138","vesicle coat","T.phaffii.A",0.0409076283359907
+"1139","vesicle membrane","T.phaffii.A",0.0149516351982948
+"1140","vesicle tethering complex","T.phaffii.A",1
+"1141","COPI-coated vesicle","T.phaffii.B",1
+"1142","COPI-coated vesicle membrane","T.phaffii.B",1
+"1143","Golgi apparatus","T.phaffii.B",1
+"1144","Golgi membrane","T.phaffii.B",1
+"1145","Golgi-associated vesicle","T.phaffii.B",1
+"1146","Golgi-associated vesicle membrane","T.phaffii.B",1
+"1147","P-body","T.phaffii.B",1
+"1148","U4/U6 x U5 tri-snRNP complex","T.phaffii.B",1
+"1149","U6 snRNP","T.phaffii.B",1
+"1150","actin cortical patch","T.phaffii.B",1
+"1151","actin cytoskeleton","T.phaffii.B",1
+"1152","actin filament","T.phaffii.B",1
+"1153","cell cortex","T.phaffii.B",1
+"1154","cell division site","T.phaffii.B",1
+"1155","cell pole","T.phaffii.B",1
+"1156","cell projection","T.phaffii.B",1
+"1157","cell tip","T.phaffii.B",1
+"1158","cellular bud","T.phaffii.B",1
+"1159","cellular bud neck","T.phaffii.B",1
+"1160","cellular bud neck septin ring","T.phaffii.B",1
+"1161","cellular bud neck septin structure","T.phaffii.B",1
+"1162","clathrin-coated vesicle","T.phaffii.B",1
+"1163","cleavage apparatus septin structure","T.phaffii.B",1
+"1164","coated membrane","T.phaffii.B",1
+"1165","coated vesicle","T.phaffii.B",1
+"1166","coated vesicle membrane","T.phaffii.B",1
+"1167","cortical actin cytoskeleton","T.phaffii.B",1
+"1168","cortical cytoskeleton","T.phaffii.B",1
+"1169","cytoplasmic ribonucleoprotein granule","T.phaffii.B",1
+"1170","cytoplasmic side of membrane","T.phaffii.B",1
+"1171","cytoplasmic vesicle","T.phaffii.B",1
+"1172","cytoplasmic vesicle membrane","T.phaffii.B",1
+"1173","cytoskeleton","T.phaffii.B",1
+"1174","endocytic patch","T.phaffii.B",1
+"1175","intracellular vesicle","T.phaffii.B",1
+"1176","mating projection","T.phaffii.B",1
+"1177","mating projection tip","T.phaffii.B",1
+"1178","membrane coat","T.phaffii.B",1
+"1179","membrane microdomain","T.phaffii.B",1
+"1180","membrane raft","T.phaffii.B",1
+"1181","plasma membrane bounded cell projection","T.phaffii.B",1
+"1182","plasma membrane protein complex","T.phaffii.B",1
+"1183","polysome","T.phaffii.B",1
+"1184","proton-transporting V-type ATPase complex","T.phaffii.B",1
+"1185","proton-transporting two-sector ATPase complex","T.phaffii.B",1
+"1186","ribonucleoprotein granule","T.phaffii.B",1
+"1187","septin cytoskeleton","T.phaffii.B",1
+"1188","septin ring","T.phaffii.B",1
+"1189","side of membrane","T.phaffii.B",1
+"1190","site of polarized growth","T.phaffii.B",1
+"1191","spliceosomal tri-snRNP complex","T.phaffii.B",1
+"1192","transport vesicle membrane","T.phaffii.B",1
+"1193","vacuolar proton-transporting V-type ATPase complex","T.phaffii.B",1
+"1194","vesicle","T.phaffii.B",1
+"1195","vesicle coat","T.phaffii.B",1
+"1196","vesicle membrane","T.phaffii.B",1
+"1197","vesicle tethering complex","T.phaffii.B",1

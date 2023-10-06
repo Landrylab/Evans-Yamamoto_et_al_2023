@@ -1,0 +1,26 @@
+﻿ortholog,Species,Gene,Position,PCC,Comp,State
+T.phaffii(A),T.phaffii,TPHA0E02830,DupA,0.87169897,3188.811688,PostWGD
+H.sapiens(CSNK1A1L),H. sapiens,CSNK1A1L,Outgroup,0.8956619,2250.818182,Outgroup
+N.castellii(A),N.castellii,NCAS0A01090,DupA,0.60518537,2172.74026,PostWGD
+S.bayanusvar.uvarum(A),S.bayanusvar.uvarum,Suva_16.102,DupA,0.93525399,3048.185065,PostWGD
+H.sapiens(CSNK1A1),H. sapiens,CSNK1A1,Outgroup,0.67909289,2229.600649,Outgroup
+T.blattae(A),T.blattae,TBLA0A02040,DupA,0.7649455,2221.701299,PostWGD
+K.africana(A),K.africana,KAFR0K00320,DupA,0.86730196,3163.707792,PostWGD
+C.glabrata(B),C.glabrata,CAGL0H03553g,DupB,0.90830058,3032.198052,PostWGD
+N.dairenensis(A),N.dairenensis,NDAI0F01640,DupA,0.86076245,2196.558442,PostWGD
+Vehicle,Vehicle,Vehicle,Vehicle,0.44052137,2252.022727,Control
+S.mikatae(A),S.mikatae,Smik_6.409,DupA,0.97163569,2976.857143,PostWGD
+T.blattae(B),T.blattae,TBLA0B05310,DupB,0.87782813,3169.675325,PostWGD
+V.polyspora(A),V.polyspora,Kpol_1002.53,DupA,0.94893501,3283.811688,PostWGD
+T.phaffii(B),T.phaffii,TPHA0J02370,DupB,0.88393245,2255.409091,PostWGD
+K.naganishii(A),K.naganishii,KNAG0D01130,DupA,0.87912349,3001.636364,PostWGD
+K.naganishii(B),K.naganishii,KNAG0F01980,DupB,0.90211078,3188.12987,PostWGD
+N.dairenensis(B),N.dairenensis,NDAI0I01070,DupB,0.896985,3121.142857,PostWGD
+T.delbrueckii(Anc),T.delbrueckii,TDEL0E05230,NonWGD,0.83934159,3147.980519,NonWGD
+S.kudriavzevii(A),S.kudriavzevii,Skud_16.75,DupA,0.96099332,3129.876623,PostWGD
+H.sapiens(CSNK1D),H. sapiens,CSNK1D,Outgroup,0.89226589,2197.954545,Outgroup
+V.polyspora(B),V.polyspora,Kpol_1033.51,DupB,0.90012298,2147.350649,PostWGD
+K.africana(B),K.africana,KAFR0C02290,DupB,0.88694897,3256.954545,PostWGD
+Z.rouxii(Anc),Z.rouxii,ZYRO0G08866g,NonWGD,0.89743709,3107.035714,NonWGD
+N.castellii(B),N.castellii,NCAS0D03820,DupB,0.91958546,3140.292208,PostWGD
+H.sapiens(CSNK1E),H. sapiens,CSNK1E,Outgroup,0.8199606,2167.035714,Outgroup
