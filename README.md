@@ -19,12 +19,13 @@ git clone https://github.com/LandryLab/EVANS-Yamamoto_et_al_2023.git
 ```
 
 
-
 ### Dependencies 
 
 - Python <br>
     ```
-    numpy  version >=1.19 
+    numpy  version >=1.19
+    
+    
     ```
 
     In the terminal, go to the location of the downloaded folder, and install the dependencies above by executing the following command.<br>
@@ -223,7 +224,7 @@ Scripts to reproduce Figure 1C of the paper.
 ### 03_dNdS_analysis
 Scripts to reproduce Figure 1D-G of the paper.
 
-**00_data_preparation**
+**00_data_preparation**<br>
 Data presented in the **raw_file** folder is proccessed using the script **alignment2nogap.ipynb** in order to create fasta files for codeml analysis. Some manual modifications (inserting the header for file format etc) was performed to ensure proper execution of codeml.
 
 **01_codeml**<br>
