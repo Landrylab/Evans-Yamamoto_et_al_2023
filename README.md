@@ -241,7 +241,7 @@ In this folder, intermediate files for generating figures based on codeml output
 
 
 ### 04_Combinatorial_functional_complementation_screening
-Scripts and related output related to combinatorial complementation screening.
+Scripts and output related to combinatorial complementation screening.
 
 * Input<br>
     * Sample information for analysis
@@ -264,7 +264,29 @@ Scripts and related output related to combinatorial complementation screening.
 Files generated from the scripts.
 
 ### 05_DHFR-PCA_assay
-hoge
+Scripts and output related to the DHFR-PCA screening.
+
+* Input<br>
+    * Sample information for analysis
+    * Image data from S&P imager (Available upon request to the corresponding author)
+    * Numaric values extracted from the Image data (2022-12-09_MTX_Sel2_AUC_data_Cterm.csv)
+
+* Scripts<br>
+    * 01_robotpics_analysis.ipynb<br>
+      Script to extract colony area from each image.
+      
+    * 02_AUC_computation.ipynb<br>
+      Script to compute PPI scores, using AUC values.
+    
+    * 03_parse_screening_data.ipynb<br>
+      Script to parse screening information and PPI data.
+      
+    * 04_Analysis.ipynb<br>
+      Script to analyze PPI data and output stats.
+          
+* Output<br>
+  Plots and intermediate files generated from the scripts.
+
 
 ### 06_GO_enrichment_analysis_of_PPI_partners
 hoge
